@@ -120,4 +120,4 @@ Your daily budget in Rome can vary based on your travel style. Here’s a rough 
 
 7. **Dress Code:** When visiting religious sites, like the Vatican, dress modestly. Cover your shoulders and knees to adhere to the dress code.
 
-Exploring Rome is an adventure filled with rich history, delicious food, and unforgettable experiences. Whether you're marveling at ancient ruins or indulging in gelato on a sunny piazza, the Eternal City promises to leave a lasting impression. If you're also considering a trip to [Porto, Portugal](/posts/porto-portugal/) or [Seville, Spain](/posts/seville-spain/), check out our guides for more travel inspiration.
+Exploring Rome is an adventure filled with rich history, delicious food, and unforgettable experiences. Whether you're marveling at ancient ruins or indulging in gelato on a sunny piazza, the Eternal City promises to leave a lasting impression. If you're also considering a trip to Porto, Portugal or Seville, Spain, check out our guides for more travel inspiration.

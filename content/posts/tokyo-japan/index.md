@@ -116,6 +116,6 @@ Travel budgeting can vary widely depending on your preferences. Here’s a rough
 
 7. **Cultural Etiquette**: Familiarize yourself with local customs, such as bowing when greeting and removing shoes when entering homes or certain establishments.
 
-If you're also considering a trip to [Hong Kong](/posts/hong-kong-china/) or [Taipei](/posts/taipei-taiwan/), check out our guides for more travel tips and insights. 
+If you're also considering a trip to Hong Kong or Taipei, check out our guides for more travel tips and insights. 
 
 Tokyo is a city that promises unforgettable memories and an authentic glimpse into Japan's rich culture. With careful planning and an open mind, your adventure in this bustling metropolis is sure to be one for the books!

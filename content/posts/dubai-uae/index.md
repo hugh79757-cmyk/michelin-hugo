@@ -128,6 +128,6 @@ Keep in mind that prices can vary based on the season and special events, so itâ
 
 7. **Respect Ramadan**: If visiting during Ramadan, be mindful of local customs. Eating, drinking, or smoking in public during daylight hours is discouraged.
 
-If you're also considering a trip to [Petra, Jordan](/posts/petra-jordan/), check out our guide for more travel inspiration. 
+If you're also considering a trip to Petra, Jordan, check out our guide for more travel inspiration. 
 
 With its unique blend of tradition and modernity, Dubai is a destination that promises unforgettable experiences. Whether youâ€™re lounging on the beach, exploring the desert, or savoring local delicacies, the city has something for everyone. So pack your bags and get ready for an adventure in this extraordinary oasis!

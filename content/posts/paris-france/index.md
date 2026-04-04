@@ -113,6 +113,6 @@ When planning your trip to Paris, it’s essential to consider your budget. Here
 
 7. **Plan Ahead:** Popular attractions can get crowded, so consider booking tickets in advance to skip long lines and maximize your time in the city.
 
-If you're also considering a trip to [Copenhagen, Denmark](/posts/copenhagen-denmark/) or [Venice, Italy](/posts/venice-italy/), be sure to check out our guides for more travel tips and insights. 
+If you're also considering a trip to Copenhagen, Denmark or Venice, Italy, be sure to check out our guides for more travel tips and insights. 
 
 With this travel guide, you're well-equipped to explore Paris and create unforgettable memories in one of the world's most enchanting cities. Bon voyage!

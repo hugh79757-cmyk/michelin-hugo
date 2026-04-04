@@ -116,4 +116,4 @@ Planning your budget for Istanbul can help you manage expenses effectively. Here
 
 7. **Stay Hydrated**: Istanbul can get hot, especially in the summer. Keep a water bottle handy and take breaks to stay refreshed during your explorations.
 
-Whether you’re drawn to its rich history, vibrant culture, or delicious cuisine, Istanbul is a destination that promises unforgettable experiences. With this complete itinerary guide, you’re well on your way to planning an amazing trip. If you're also considering a trip to [Split, Croatia](/posts/split-croatia/) or exploring the stunning coastline of the [Amalfi Coast, Italy](/posts/amalfi-coast-italy/), be sure to check out our guides for those destinations as well! Happy travels!
+Whether you’re drawn to its rich history, vibrant culture, or delicious cuisine, Istanbul is a destination that promises unforgettable experiences. With this complete itinerary guide, you’re well on your way to planning an amazing trip. If you're also considering a trip to Split, Croatia or exploring the stunning coastline of the Amalfi Coast, Italy, be sure to check out our guides for those destinations as well! Happy travels!

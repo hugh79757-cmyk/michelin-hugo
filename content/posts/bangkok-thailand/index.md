@@ -150,4 +150,4 @@ When visiting temples, dress modestly. Cover your shoulders and knees, and remov
 7. **Stay Hydrated**  
 The heat can be intense, so drink plenty of water throughout the day. Avoid tap water; opt for bottled water instead.
 
-With this guide, you'll be well-equipped to spend a fantastic week in Bangkok, exploring its vibrant culture, delicious food, and rich history. If you find yourself inspired to explore further afield, consider a trip to [Siem Reap, Cambodia](/posts/siem-reap-cambodia/) or even a quick hop to [Taipei, Taiwan](/posts/taipei-taiwan/) for more adventure. Happy travels!
+With this guide, you'll be well-equipped to spend a fantastic week in Bangkok, exploring its vibrant culture, delicious food, and rich history. If you find yourself inspired to explore further afield, consider a trip to Siem Reap, Cambodia or even a quick hop to Taipei, Taiwan for more adventure. Happy travels!

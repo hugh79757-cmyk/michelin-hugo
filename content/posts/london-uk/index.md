@@ -122,4 +122,4 @@ No matter your budget, London offers a wealth of experiences that cater to every
 
 7. **Cultural Etiquette**: The British value politeness. A simple "please" and "thank you" goes a long way in interactions with locals.
 
-With its rich history, diverse culture, and endless opportunities for exploration, London is a destination that will leave you with unforgettable memories. Whether you’re wandering through its historic streets or savoring the local cuisine, every moment in this dynamic city is a chance to experience something new. If you're also considering a trip to [Porto, Portugal](/posts/porto-portugal/) or [Seville, Spain](/posts/seville-spain/), check out our guides for more travel inspiration.
+With its rich history, diverse culture, and endless opportunities for exploration, London is a destination that will leave you with unforgettable memories. Whether you’re wandering through its historic streets or savoring the local cuisine, every moment in this dynamic city is a chance to experience something new. If you're also considering a trip to Porto, Portugal or Seville, Spain, check out our guides for more travel inspiration.

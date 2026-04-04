@@ -126,4 +126,4 @@ Understanding your budget is essential for a successful trip. Here’s a daily b
 
 7. **Plan Ahead**: Many attractions require advance booking, especially during peak seasons. Check online for tickets and availability to avoid disappointment.
 
-By keeping these tips in mind and preparing ahead of time, your trip to New York will be a memorable adventure filled with excitement and discovery. If you're also considering a trip to [Havana, Cuba](/posts/havana-cuba/) or [Cancun, Mexico](/posts/cancun-mexico/), check out our guides for more travel inspiration.
+By keeping these tips in mind and preparing ahead of time, your trip to New York will be a memorable adventure filled with excitement and discovery. If you're also considering a trip to Havana, Cuba or Cancun, Mexico, check out our guides for more travel inspiration.

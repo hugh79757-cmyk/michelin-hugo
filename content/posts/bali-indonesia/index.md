@@ -161,4 +161,4 @@ Understanding your daily budget can help you plan your trip effectively. Here’
 
 7. **Hydrate:** Bali’s heat can be intense, so make sure to drink plenty of water to stay hydrated, especially when engaging in outdoor activities.
 
-With its rich culture, stunning landscapes, and mouthwatering cuisine, Bali offers an unforgettable experience waiting to be discovered. So pack your bags, embrace the local way of life, and create memories that will last a lifetime! If you're also considering a trip to [Palawan, Philippines](/posts/palawan-philippines/), check out our guide for more travel inspiration.
+With its rich culture, stunning landscapes, and mouthwatering cuisine, Bali offers an unforgettable experience waiting to be discovered. So pack your bags, embrace the local way of life, and create memories that will last a lifetime! If you're also considering a trip to Palawan, Philippines, check out our guide for more travel inspiration.

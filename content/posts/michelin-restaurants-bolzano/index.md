@@ -102,6 +102,74 @@ Reservations are highly recommended for Michelin-listed restaurants in Bolzano, 
 
 For a seamless experience, consider checking the restaurant's menu online before your visit, as many Michelin establishments frequently update their offerings based on seasonal ingredients.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![St. Mark's Basilica Guided Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/87/b2/b3/caption.jpg)](https://www.viator.com/tours/Venice/St-Marks-Basilica-Guided-Tour/d522-62416P63?pid=P00295226&mcid=42383&medium=link)
+
+**[St. Mark's Basilica Guided Tour](https://www.viator.com/tours/Venice/St-Marks-Basilica-Guided-Tour/d522-62416P63?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Private and Luxury_
+
+From **$81**
+
+[Book Now →](https://www.viator.com/tours/Venice/St-Marks-Basilica-Guided-Tour/d522-62416P63?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Murano, Burano, Torcello Tour by Classic Venetian Boat](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0f/99/07.jpg)](https://www.viator.com/tours/Venice/Murano-Burano-Torcello-Tour-by-Classic-Venetian-Boat/d522-6476P123?pid=P00295226&mcid=42383&medium=link)
+
+**[Murano, Burano, Torcello Tour by Classic Venetian Boat](https://www.viator.com/tours/Venice/Murano-Burano-Torcello-Tour-by-Classic-Venetian-Boat/d522-6476P123?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-28%</span>
+
+_Day Trips_
+
+From **$93**
+
+[Book Now →](https://www.viator.com/tours/Venice/Murano-Burano-Torcello-Tour-by-Classic-Venetian-Boat/d522-6476P123?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Murano & Burano: Venice Lagoon Cruise on a Traditional Boat](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0f/fb/a5.jpg)](https://www.viator.com/tours/Venice/Murano-and-Burano-Venice-Lagoon-Cruise-on-a-Traditional-Boat/d522-6476P125?pid=P00295226&mcid=42383&medium=link)
+
+**[Murano & Burano: Venice Lagoon Cruise on a Traditional Boat](https://www.viator.com/tours/Venice/Murano-and-Burano-Venice-Lagoon-Cruise-on-a-Traditional-Boat/d522-6476P125?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-28%</span>
+
+_Day Trips_
+
+From **$58**
+
+[Book Now →](https://www.viator.com/tours/Venice/Murano-and-Burano-Venice-Lagoon-Cruise-on-a-Traditional-Boat/d522-6476P125?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Venice Self-Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Venice/Venice-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d522-30066P122?pid=P00295226&mcid=42383&medium=link)
+
+**[Venice Self-Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Venice/Venice-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d522-30066P122?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Venice/Venice-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d522-30066P122?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Venice Photoshoot](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ba/10/d4/caption.jpg)](https://www.viator.com/tours/Venice/Venice-Photoshoot/d522-5640599P5?pid=P00295226&mcid=42383&medium=link)
+
+**[Venice Photoshoot](https://www.viator.com/tours/Venice/Venice-Photoshoot/d522-5640599P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Photography Tours_
+
+From **$265**
+
+[Book Now →](https://www.viator.com/tours/Venice/Venice-Photoshoot/d522-5640599P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Tips for Dining at Michelin Restaurants
 
 To make the most of your Michelin dining experience in Bolzano, keep these tips in mind:

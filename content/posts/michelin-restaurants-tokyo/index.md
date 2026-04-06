@@ -3,7 +3,7 @@ title: "Tokyo Michelin Restaurant Guide"
 date: 2026-04-02T19:00:23+09:00
 description: "Complete guide to Michelin-starred restaurants in Tokyo: awards, cuisines, prices, and booking tips."
 featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-tokyo/cover.jpg"
-featureimagecredit: "Photo by [Luo Chris](https://www.pexels.com/@luo-chris-1659104) on [Pexels](https://www.pexels.com)"
+featureimagecaption: "Photo by [Luo Chris](https://www.pexels.com/@luo-chris-1659104) on [Pexels](https://www.pexels.com)"
 tags:
   - "Tokyo"
   - "Japan"
@@ -16,7 +16,6 @@ showTableOfContents: true
 ---
 
 Photo by [Luo Chris](https://www.pexels.com/@luo-chris-1659104) on [Pexels](https://www.pexels.com)
-
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
@@ -40,7 +39,6 @@ Photo by [Luo Chris](https://www.pexels.com/@luo-chris-1659104) on [Pexels](http
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-tokyo/body_1.jpg)
 *Photo by [Kuma Jio](https://www.pexels.com/@kuma-jio-2150949207) on [Pexels](https://www.pexels.com)*
 
-
 ## Three-Star and Two-Star Excellence
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
@@ -56,12 +54,10 @@ Photo by [Luo Chris](https://www.pexels.com/@luo-chris-1659104) on [Pexels](http
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
 Tokyo is home to an elite group of restaurants that have achieved the coveted three-star status, a hallmark of exceptional quality and culinary artistry. The following establishments exemplify the pinnacle of fine dining in the city:
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-tokyo/body_2.jpg)
 *Photo by [Guohua Song](https://www.pexels.com/@railgunbreaker) on [Pexels](https://www.pexels.com)*
-
 
 ### Three-Star Restaurants
 
@@ -133,7 +129,6 @@ While the three-star and two-star restaurants represent the pinnacle of culinary
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-tokyo/body_3.jpg)
 *Photo by [Maksym Grinenko](https://www.pexels.com/@maksym-grinenko-2157159533) on [Pexels](https://www.pexels.com)*
-
 
 ## Bib Gourmand: Best Value Fine Dining
 
@@ -250,9 +245,8 @@ From ** ¥¥¥¥**
 
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

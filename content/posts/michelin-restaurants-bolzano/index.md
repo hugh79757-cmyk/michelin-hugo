@@ -15,7 +15,6 @@ showTableOfContents: true
 ---
 Photo by [Stefano Usuelli](https://www.pexels.com/@stefano-usuelli-1803030364) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,15 +49,12 @@ Bolzano boasts a total of seven Michelin-listed restaurants, showcasing a deligh
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-bolzano/body_1.jpg)
 *Photo by [Alina Chernii](https://www.pexels.com/@alina-chernii-682289345) on [Pexels](https://www.pexels.com)*
 
 As of now, Bolzano is yet to claim any three-star or two-star Michelin restaurants. However, this does not detract from the city's vibrant culinary offerings. The absence of higher-tier accolades allows for a focus on the remarkable one-star and Bib Gourmand establishments that provide exceptional quality without the need for a Michelin star. The selected restaurants in Bolzano are a testament to the city's commitment to fine dining, showcasing creativity and culinary craftsmanship.
 
 ## One-Star Gems Worth the Detour
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-bolzano/body_2.jpg)
 *Photo by [Frank Wesneck](https://www.pexels.com/@frank-wesneck-2154020533) on [Pexels](https://www.pexels.com)*
@@ -74,7 +70,6 @@ Another gem is **Laurin**, situated in the luxurious Parkhotel Laurin. This rest
 Lastly, **Zur Kaiserkron** offers a blend of Mediterranean and modern cuisine in a beautifully appointed space overlooking the Piazza della Mostra. With prices at €€, it provides an inviting atmosphere for both casual and special occasions.
 
 ## Bib Gourmand: Best Value Fine Dining
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-bolzano/body_3.jpg)
 *Photo by [Domenico Adornato](https://www.pexels.com/@domenico-adornato-429128288) on [Pexels](https://www.pexels.com)*
@@ -125,9 +120,8 @@ In conclusion, Bolzano offers a rich tapestry of Michelin dining experiences tha
 
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

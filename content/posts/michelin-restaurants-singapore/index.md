@@ -3,7 +3,7 @@ title: "Singapore Michelin Restaurant Guide"
 date: 2026-04-04T12:50:45+09:00
 description: "Complete guide to Michelin-starred restaurants in Singapore: awards, cuisines, prices, and booking tips."
 featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-singapore/cover.jpg"
-featureimagecredit: "Photo by [Gatsby Yang](https://www.pexels.com/@gatsby-yang-857486579) on [Pexels](https://www.pexels.com)"
+featureimagecaption: "Photo by [Gatsby Yang](https://www.pexels.com/@gatsby-yang-857486579) on [Pexels](https://www.pexels.com)"
 tags:
   - "Singapore"
   - "Michelin Restaurants"
@@ -15,7 +15,6 @@ showTableOfContents: true
 ---
 
 Photo by [Gatsby Yang](https://www.pexels.com/@gatsby-yang-857486579) on [Pexels](https://www.pexels.com)
-
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
@@ -39,7 +38,6 @@ The Michelin Guide has become a benchmark for food enthusiasts, and [Singapore](
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-singapore/body_1.jpg)
 *Photo by [Ben M](https://www.pexels.com/@benmacvean) on [Pexels](https://www.pexels.com)*
 
-
 ## Three-Star and Two-Star Excellence
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
@@ -55,12 +53,10 @@ The Michelin Guide has become a benchmark for food enthusiasts, and [Singapore](
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
 At the pinnacle of the Michelin hierarchy are the three-star restaurants, which represent the epitome of culinary artistry and excellence. In Singapore, there are three outstanding establishments that have achieved this remarkable accolade:
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-singapore/body_2.jpg)
 *Photo by [Utpal Sarkar](https://www.pexels.com/@utpal-sarkar-3387216) on [Pexels](https://www.pexels.com)*
-
 
 - **Les Amis** | 3 Stars | French | $$$$  
   Renowned for its haute cuisine, Les Amis offers a dining experience that emphasizes creative freedom and the chef's vision.
@@ -100,7 +96,6 @@ Singapore's one-star restaurants showcase a diverse range of cuisines and styles
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-singapore/body_3.jpg)
 *Photo by [Khye Loh](https://www.pexels.com/@khye-loh-1974923463) on [Pexels](https://www.pexels.com)*
-
 
 - **Omakase @ Stevens** | 1 Star | Innovative | $$$$  
   This intimate venue features a multi-course menu crafted by a chef from [Osaka](https://foodtour.techpawz.com/posts/osaka-food-tours/), highlighting the artistry of Japanese cuisine.
@@ -290,9 +285,8 @@ From ** $$$$**
 
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

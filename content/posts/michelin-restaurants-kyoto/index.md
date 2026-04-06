@@ -3,7 +3,7 @@ title: "Kyoto Michelin Restaurant Guide"
 date: 2026-04-04T18:50:36+09:00
 description: "Complete guide to Michelin-starred restaurants in Kyoto: awards, cuisines, prices, and booking tips."
 featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-kyoto/cover.jpg"
-featureimagecredit: "Photo by [Emiliano Lara](https://www.pexels.com/@emiliano-lara-2150347322) on [Pexels](https://www.pexels.com)"
+featureimagecaption: "Photo by [Emiliano Lara](https://www.pexels.com/@emiliano-lara-2150347322) on [Pexels](https://www.pexels.com)"
 tags:
   - "Kyoto"
   - "Japan"
@@ -16,7 +16,6 @@ showTableOfContents: true
 ---
 
 Photo by [Emiliano Lara](https://www.pexels.com/@emiliano-lara-2150347322) on [Pexels](https://www.pexels.com)
-
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
@@ -40,7 +39,6 @@ Photo by [Emiliano Lara](https://www.pexels.com/@emiliano-lara-2150347322) on [P
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-kyoto/body_1.jpg)
 *Photo by [Ehsan Haque](https://www.pexels.com/@itsehsanh) on [Pexels](https://www.pexels.com)*
 
-
 ## Three-Star and Two-Star Excellence
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
@@ -56,12 +54,10 @@ Photo by [Emiliano Lara](https://www.pexels.com/@emiliano-lara-2150347322) on [P
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
 At the pinnacle of Kyoto's dining scene are the three-star restaurants, which represent the highest level of culinary achievement. These establishments not only offer exquisite dishes but also provide an immersive dining experience that reflects the essence of Japanese hospitality.
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-kyoto/body_2.jpg)
 *Photo by [Acres of Film](https://www.pexels.com/@acres-of-film-698445032) on [Pexels](https://www.pexels.com)*
-
 
 ### Three-Star Restaurants
 
@@ -117,7 +113,6 @@ For those seeking exceptional dining without the three- or two-star price tag, K
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-kyoto/body_3.jpg)
 *Photo by [Thuan Pham](https://www.pexels.com/@thuan) on [Pexels](https://www.pexels.com)*
-
 
 1. **shiro** - A contemporary Italian restaurant that emphasizes purity in its design and dishes, creating a refreshing dining atmosphere.
 
@@ -268,9 +263,8 @@ From ** ¥¥¥¥**
 
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

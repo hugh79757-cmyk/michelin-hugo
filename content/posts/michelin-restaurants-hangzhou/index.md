@@ -3,7 +3,7 @@ title: "Hangzhou Michelin Guide: A Culinary Journey"
 date: 2026-04-05T22:50:50+09:00
 description: "Complete guide to Michelin-starred restaurants in Hangzhou: awards, cuisines, prices, and booking tips."
 featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-hangzhou/cover.jpg"
-featureimagecredit: "Photo by [Acres of Film](https://www.pexels.com/@acres-of-film-698445032) on [Pexels](https://www.pexels.com)"
+featureimagecaption: "Photo by [Acres of Film](https://www.pexels.com/@acres-of-film-698445032) on [Pexels](https://www.pexels.com)"
 tags:
   - "Hangzhou"
   - "China Mainland"
@@ -19,10 +19,8 @@ Photo by [Acres of Film](https://www.pexels.com/@acres-of-film-698445032) on [Pe
 
 ## Michelin Dining in Hangzhou: An Overview
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-hangzhou/body_1.jpg)
 *Photo by [Acres of Film](https://www.pexels.com/@acres-of-film-698445032) on [Pexels](https://www.pexels.com)*
-
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
@@ -57,8 +55,6 @@ Hangzhou, the capital of Zhejiang province, is renowned for its stunning landsca
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-hangzhou/body_2.jpg)
 *Photo by [Acres of Film](https://www.pexels.com/@acres-of-film-698445032) on [Pexels](https://www.pexels.com)*
 
-
-
 Among the distinguished restaurants in Hangzhou, Ru Yuan stands out with its two-star accolade. Nestled amidst lush vegetation, this restaurant presents a menu that features familiar Zhejiang dishes, including the celebrated Xihu fish. The serene setting enhances the dining experience, making it a remarkable spot for those seeking an elevated culinary adventure.
 
 ## One-Star Gems
@@ -67,7 +63,6 @@ The one-star restaurants in Hangzhou offer an impressive array of cuisines, each
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-hangzhou/body_3.jpg)
 *Photo by [Acres of Film](https://www.pexels.com/@acres-of-film-698445032) on [Pexels](https://www.pexels.com)*
-
 
 Jie Xiang Lou, located in a bamboo forest, exudes tranquility and serenity. This restaurant focuses on Jiangnan dishes, providing a taste of the region's culinary heritage. In contrast, Song captures the essence of Ningbo cuisine, with its jade-coloured archways and silk-clad panels that evoke a classical Hangzhou garden setting.
 
@@ -200,9 +195,8 @@ From ** ¥¥¥¥**
 
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

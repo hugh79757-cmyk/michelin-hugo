@@ -3,7 +3,7 @@ title: "Madrid Michelin Restaurant Guide"
 date: 2026-04-06T12:50:46+09:00
 description: "Complete guide to Michelin-starred restaurants in Madrid: awards, cuisines, prices, and booking tips."
 featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-madrid/cover.jpg"
-featureimagecredit: "Photo by [José Manuel](https://www.pexels.com/@jose-manuel-1808792) on [Pexels](https://www.pexels.com)"
+featureimagecaption: "Photo by [José Manuel](https://www.pexels.com/@jose-manuel-1808792) on [Pexels](https://www.pexels.com)"
 tags:
   - "Madrid"
   - "Spain"
@@ -19,10 +19,8 @@ Photo by [José Manuel](https://www.pexels.com/@jose-manuel-1808792) on [Pexels]
 
 ## Michelin Dining in Madrid: An Overview
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-madrid/body_1.jpg)
 *Photo by [AXP Photography](https://www.pexels.com/@axp-photography-500641970) on [Pexels](https://www.pexels.com)*
-
 
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">📌 More about Madrid</p>
@@ -32,10 +30,6 @@ Photo by [José Manuel](https://www.pexels.com/@jose-manuel-1808792) on [Pexels]
 <a href="https://eurail.techpawz.com/posts/altea-to-madrid-train/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🚄 rail routes to Madrid</a>
 </div>
 </div>
-
-
-
-
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
@@ -70,8 +64,6 @@ Photo by [José Manuel](https://www.pexels.com/@jose-manuel-1808792) on [Pexels]
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-madrid/body_2.jpg)
 *Photo by [Joaquin Carfagna](https://www.pexels.com/@joaquin-carfagna-3131171) on [Pexels](https://www.pexels.com)*
 
-
-
 At the pinnacle of the Michelin ratings in Madrid is DiverXO, the only restaurant in the city to hold three stars. Under the visionary leadership of chef Dabiz Muñoz, DiverXO presents a creative menu that pushes boundaries, featuring dishes like “Galician lobster waking up on the beaches of Goa” and “drunken crabs partying in J.” This restaurant is a testament to culinary artistry and innovation.
 
 The two-star category is home to six remarkable establishments, each offering a unique dining experience. Ramón Freixa Atelier stands out with its creative haute cuisine, where renowned chef Ramón Freixa crafts exquisite dishes in an exclusive setting. Coque, led by the Sandoval brothers, combines creativity with a warm dining atmosphere, while DSTAgE, situated in an industrial loft, offers a striking environment alongside its inventive menu. Paco Roncero embodies a relentless pursuit of culinary excellence, making his restaurant a worth trying for any serious food lover. Smoked Room presents a contemporary dining experience reminiscent of clandestine spaces, where every meal is a unique journey. Lastly, Deessa, the gourmet standard-bearer of the Mandarin Oriental Ritz, showcases a creative approach to fine dining.
@@ -82,7 +74,6 @@ Madrid's one-star restaurants are a great destination of culinary experiences, e
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-madrid/body_3.jpg)
 *Photo by [Travel Photographer](https://www.pexels.com/@travel-photographer-127255675) on [Pexels](https://www.pexels.com)*
-
 
 Saddle, with its nod to equestrian culture, blends modern and classic cuisine, while Gofio showcases regional flavors in a contemporary light. Yugo The Bunker offers an authentic izakaya experience, and A'Barra presents an international menu centered around premium products. Quimbaya takes diners on a culinary journey through Colombian flavors, while Ricardo Sanz Wellington impresses with its Japanese contemporary offerings.
 
@@ -203,9 +194,8 @@ From ** €€€€**
 
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

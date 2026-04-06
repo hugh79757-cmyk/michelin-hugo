@@ -3,7 +3,7 @@ title: "Chengdu Michelin Restaurant Guide"
 date: 2026-04-05T18:51:02+09:00
 description: "Complete guide to Michelin-starred restaurants in Chengdu: awards, cuisines, prices, and booking tips."
 featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-chengdu/cover.jpg"
-featureimagecredit: "Photo by [AG ZN](https://www.pexels.com/@agzn) on [Pexels](https://www.pexels.com)"
+featureimagecaption: "Photo by [AG ZN](https://www.pexels.com/@agzn) on [Pexels](https://www.pexels.com)"
 tags:
   - "Chengdu"
   - "China Mainland"
@@ -19,10 +19,8 @@ Photo by [AG ZN](https://www.pexels.com/@agzn) on [Pexels](https://www.pexels.co
 
 ## Michelin Dining in Chengdu: An Overview
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-chengdu/body_1.jpg)
 *Photo by [Echo Zhang](https://www.pexels.com/@echo-zhang-1517320219) on [Pexels](https://www.pexels.com)*
-
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
@@ -57,8 +55,6 @@ Chengdu, the capital of Sichuan province, is renowned for its rich culinary heri
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-chengdu/body_2.jpg)
 *Photo by [Gibson Chan](https://www.pexels.com/@gibson-chan-1622383532) on [Pexels](https://www.pexels.com)*
 
-
-
 Chengdu is home to two distinguished two-star restaurants that exemplify the pinnacle of fine dining in the city. 
 
 **Xin Rong Ji**, a Taizhou restaurant, is celebrated for its lavish yet understated decor and exceptional service. The ambiance is designed to provide a comfortable dining experience while the menu reflects the finest in Taizhou culinary traditions. 
@@ -71,7 +67,6 @@ Chengdu boasts an impressive selection of one-star restaurants, each offering a 
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-chengdu/body_3.jpg)
 *Photo by [dongfang xiaowu](https://www.pexels.com/@dongfang-xiaowu-112541598) on [Pexels](https://www.pexels.com)*
-
 
 **Fu Rong Huang** provides a sense of privacy with its wooden slatted partitions, allowing diners to enjoy their meals in a more secluded atmosphere. The Sichuan dishes here are crafted with care, ensuring a delightful culinary experience.
 
@@ -232,9 +227,8 @@ From ** ¥¥¥¥**
 
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

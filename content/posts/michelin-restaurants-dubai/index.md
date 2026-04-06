@@ -14,8 +14,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Subbu Rayan](https://www.pexels.com/@subbu-rayan-1007049269) on [Pexels](https://www.pexels.com)
-
 [Dubai](https://adventure.techpawz.com/posts/dubai-adventure/) stands as a beacon of luxury and innovation, and its dining scene reflects this ethos with an impressive array of Michelin-starred establishments. With a total of 117 Michelin restaurants, the city showcases a diverse culinary landscape that caters to a range of tastes and preferences. From the intricate flavors of Indian cuisine to the delicate artistry of Japanese dishes, Dubai offers an exceptional dining experience for both locals and visitors alike.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"

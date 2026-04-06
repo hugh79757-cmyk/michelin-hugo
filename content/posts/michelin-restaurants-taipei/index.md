@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Jimmy Liao](https://www.pexels.com/@jimmy-liao-3615017) on [Pexels](https://www.pexels.com)
-
 ## Michelin Dining in Taipei: An Overview
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-taipei/body_1.jpg)

@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Oscar Zhu](https://www.pexels.com/@oscar-zhu-768567102) on [Pexels](https://www.pexels.com)
-
 ## Michelin Dining in Shanghai: An Overview
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-shanghai/body_1.jpg)

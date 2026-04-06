@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Daryan Shamkhali](https://unsplash.com/@daryan) on [Unsplash](https://unsplash.com)
-
 ## Michelin Dining in Los Angeles: An Overview
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-los-angeles/body_1.jpg)

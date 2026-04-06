@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Anele Ludaviciute](https://www.pexels.com/@anele-ludaviciute-2150586308) on [Pexels](https://www.pexels.com)
-
 ## Michelin Dining in Nara: An Overview
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-nara/body_1.jpg)

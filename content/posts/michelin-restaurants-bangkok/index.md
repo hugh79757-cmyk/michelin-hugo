@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Tom Lorber](https://www.pexels.com/@tmlrbr) on [Pexels](https://www.pexels.com)
-
 [Bangkok](https://dining.techpawz.com/posts/michelin-bangkok-thailand/), the capital city of [Thailand](https://foodtour.techpawz.com/posts/krung-thep-maha-nakhon-food-tours/), is a lively hub for food enthusiasts, offering a rich mix of flavors and culinary experiences. With a total of 178 Michelin-rated restaurants, the city showcases a diverse range of cuisines, from traditional Thai to contemporary interpretations and international fare. The Michelin Guide has recognized the hard work and creativity of chefs throughout the city, making Bangkok a noteworthy destination for those seeking exceptional dining experiences.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"

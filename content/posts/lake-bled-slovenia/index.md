@@ -113,11 +113,13 @@ Slovenian cuisine is a delightful mix of influences from neighboring countries, 
 
 When dining, you’ll find a mix of casual eateries and fine dining options. Many restaurants offer outdoor seating with stunning views of the lake, making your meal even more enjoyable.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Lake Bled on Viator →](https://www.viator.com/searchResults/all?text=Lake%20Bled%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Coffee Crawl in Barcelona](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/b3/d4/84.jpg)](https://www.viator.com/tours/Barcelona/Coffee-Crawl-in-Barcelona/d562-368686P6?pid=P00295226&mcid=42383&medium=link)
 
@@ -125,9 +127,7 @@ When dining, you’ll find a mix of casual eateries and fine dining options. Man
 
 _Coffee & Tea Tours_
 
-From **$8**
-
-[Book Now →](https://www.viator.com/tours/Barcelona/Coffee-Crawl-in-Barcelona/d562-368686P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Barcelona/Coffee-Crawl-in-Barcelona/d562-368686P6?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -139,7 +139,7 @@ _Sailing_
 
 From **$40**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Shared-Sunset-Cruise-with-Unlimited-Cava/d562-5557269P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Barcelona/Shared-Sunset-Cruise-with-Unlimited-Cava/d562-5557269P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -151,7 +151,7 @@ _Private and Luxury_
 
 From **$19**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Timeless-Barcelona-Roman-Ruins-Gothic-Jewish-and-Born-Quarter/d562-327443P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Barcelona/Timeless-Barcelona-Roman-Ruins-Gothic-Jewish-and-Born-Quarter/d562-327443P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -163,7 +163,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Barcelona-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d562-30066P442?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Barcelona/Barcelona-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d562-30066P442?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -175,7 +175,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Self-Guided-Private-Exploration-Game-in-Barcelona/d562-30066P506?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Barcelona/Self-Guided-Private-Exploration-Game-in-Barcelona/d562-30066P506?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

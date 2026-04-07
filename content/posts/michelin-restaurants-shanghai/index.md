@@ -112,15 +112,17 @@ When dining at these esteemed restaurants, consider exploring the tasting menus,
 </div>
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Shanghai on Viator →](https://www.viator.com/searchResults/all?text=Shanghai%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Taian Table](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/taian-table)**
 
 _3 Stars / Innovative_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/taian-table)
+[View on Michelin Guide →](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/taian-table)
 
 ---
 
@@ -128,9 +130,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Cantonese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/bao-li-xuan)
+[View on Michelin Guide →](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/bao-li-xuan)
 
 ---
 
@@ -138,9 +138,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Cantonese_
 
-From ** ¥¥**
-
-[Book Now](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/canton-8-runan-street)
+[View on Michelin Guide →](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/canton-8-runan-street)
 
 ---
 
@@ -148,9 +146,7 @@ From ** ¥¥**
 
 _2 Stars / Italian_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/da-vittorio-570570)
+[View on Michelin Guide →](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/da-vittorio-570570)
 
 ---
 
@@ -158,9 +154,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Taizhou_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-house-of-rong)
+[View on Michelin Guide →](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-house-of-rong)
 
 ---
 
@@ -168,9 +162,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Vegetarian_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-he-hui)
+[View on Michelin Guide →](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-he-hui)
 
 ---
 
@@ -178,9 +170,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Italian_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/8-%C2%BD-otto-e-mezzo-bombana)
+[View on Michelin Guide →](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/8-%C2%BD-otto-e-mezzo-bombana)
 
 ---
 
@@ -188,9 +178,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Cantonese_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/imperial-treasure-fine-chinese-cuisine-huangpu)
+[View on Michelin Guide →](https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/imperial-treasure-fine-chinese-cuisine-huangpu)
 
 ---
 

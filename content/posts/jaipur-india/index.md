@@ -114,11 +114,13 @@ Jaipur's culinary scene is a delightful mix of flavors, with an emphasis on vege
 
 For dining, you can choose between street food stalls for a casual experience or upscale restaurants for a more refined meal. Many restaurants offer traditional Rajasthani thalis, which provide a variety of dishes on a single platter, perfect for sampling local flavors.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Jaipur on Viator →](https://www.viator.com/searchResults/all?text=Jaipur%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Half-Day Jaipur Sightseeing Tour with Guide Option](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/9c/c9/4a.jpg)](https://www.viator.com/tours/Jaipur/Half-Day-Jaipur-Sightseeing-Tour-with-Guide-Option/d4627-128120P7?pid=P00295226&mcid=42383&medium=link)
 
@@ -126,9 +128,7 @@ For dining, you can choose between street food stalls for a casual experience or
 
 _Day Trips_
 
-From **$6**
-
-[Book Now →](https://www.viator.com/tours/Jaipur/Half-Day-Jaipur-Sightseeing-Tour-with-Guide-Option/d4627-128120P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Jaipur/Half-Day-Jaipur-Sightseeing-Tour-with-Guide-Option/d4627-128120P7?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -138,9 +138,7 @@ From **$6**
 
 _City Tours_
 
-From **$6**
-
-[Book Now →](https://www.viator.com/tours/Jaipur/Private-Full-Day-Jaipur-Tour-with-Guide/d4627-128120P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Jaipur/Private-Full-Day-Jaipur-Tour-with-Guide/d4627-128120P9?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -150,9 +148,7 @@ From **$6**
 
 _Private and Luxury_
 
-From **$4**
-
-[Book Now →](https://www.viator.com/tours/Jaipur/Jaipur-Private-All-Inclusive-City-Tour-Amber-Fort-Hawa-Mahal/d4627-5515456P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Jaipur/Jaipur-Private-All-Inclusive-City-Tour-Amber-Fort-Hawa-Mahal/d4627-5515456P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -164,7 +160,7 @@ _Day Trips_
 
 From **$24**
 
-[Book Now →](https://www.viator.com/tours/Jaipur/Jaipur-City-Tour-by-Women-Driven-E-Rickshaw/d4627-128120P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Jaipur/Jaipur-City-Tour-by-Women-Driven-E-Rickshaw/d4627-128120P12?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -176,7 +172,7 @@ _Day Trips_
 
 From **$49**
 
-[Book Now →](https://www.viator.com/tours/Jaipur/Private-Day-Trip-from-Jaipur-Taj-Mahal-and-Fathepur-Sikri/d4627-128120P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Jaipur/Private-Day-Trip-from-Jaipur-Taj-Mahal-and-Fathepur-Sikri/d4627-128120P10?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

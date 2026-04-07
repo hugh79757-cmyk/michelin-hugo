@@ -119,11 +119,13 @@ Taipei is a culinary paradise, renowned for its diverse food offerings that rang
 
 When it comes to dining, you have a choice between street food and restaurants. Night markets like Shilin and Raohe Street are excellent for trying various dishes at affordable prices. For a sit-down meal, look for local restaurants specializing in Taiwanese cuisine, where you can enjoy a more leisurely dining experience.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Taipei on Viator →](https://www.viator.com/searchResults/all?text=Taipei%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Taipei : Must-See Attractions Walking Tour With A Guide (Private)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/5f/7d/dc.jpg)](https://www.viator.com/tours/Taipei/Taipei-Must-See-Attractions-Walking-Tour-With-A-Guide-Private/d5262-104357P379?pid=P00295226&mcid=42383&medium=link)
 
@@ -133,7 +135,7 @@ _Walking Tours_
 
 From **$69**
 
-[Book Now →](https://www.viator.com/tours/Taipei/Taipei-Must-See-Attractions-Walking-Tour-With-A-Guide-Private/d5262-104357P379?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Taipei/Taipei-Must-See-Attractions-Walking-Tour-With-A-Guide-Private/d5262-104357P379?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

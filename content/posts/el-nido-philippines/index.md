@@ -91,15 +91,17 @@ For a quick bite, street food stalls offer tasty options such as **fish balls** 
 
 For those who prefer a sit-down meal, several restaurants in El Nido serve a variety of international cuisines, ensuring there's something for everyone. Many establishments pride themselves on sourcing fresh ingredients, resulting in dishes that highlight the flavors of the region.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in El Nido on Viator →](https://www.viator.com/searchResults/all?text=El%20Nido%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 Looking for tours and activities in **El Nido**? Browse hundreds of experiences — from city walks and food tours to day trips and adventure sports.
 
-[🎟️ See All El Nido Tours on Viator →](https://www.viator.com/searchResults/all?text=El%20Nido&pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[🎟️ See All El Nido Tours on Viator →](https://www.viator.com/searchResults/all?text=El%20Nido&pid=P00295226&mcid=42383&medium=link)
 
 </div>
 

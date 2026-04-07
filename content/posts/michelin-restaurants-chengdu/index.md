@@ -132,22 +132,24 @@ The culinary landscape in Chengdu is predominantly characterized by Sichuan cuis
 
 ## Price Ranges and What to Expect
 
-Chengdu's Michelin-rated restaurants encompass a wide range of price points. One can find establishments offering affordable meals, such as those with Bib Gourmand recognition, where prices can start as low as 1. The one-star restaurants typically range from 10 to 30, while the two-star venues command higher prices, often falling between 30 and 40. The experience at these restaurants is enhanced by attentive service, quality ingredients, and carefully crafted dishes that reflect the culinary heritage of the region.
+Chengdu's Michelin-rated restaurants cover a wide range of price points. Bib Gourmand picks are the most affordable, ideal for budget-conscious diners. One-star restaurants sit in the mid-range tier, while two-star venues command premium prices. Across all tiers, attentive service, quality ingredients, and carefully crafted dishes reflect the culinary heritage of the region.
 
 ## How to Book and Tips for Dining
 
 Reservations are highly recommended for Michelin-starred restaurants, particularly the two-star establishments where demand is high. It is advisable to book well in advance, especially during peak dining times or holidays. When dining in Chengdu, consider exploring a variety of dishes to fully appreciate the local flavors. Engaging with the staff about the menu can also enhance your experience, as they can provide insights into the best dishes to try. Lastly, be prepared for a dining experience that may extend beyond the typical meal, as many restaurants prioritize the enjoyment of food and conversation.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Chengdu on Viator →](https://www.viator.com/searchResults/all?text=Chengdu%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Xin Rong Ji](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/xin-rong-ji-1207940)**
 
 _2 Stars / Taizhou_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/xin-rong-ji-1207940)
+[View on Michelin Guide →](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/xin-rong-ji-1207940)
 
 ---
 
@@ -155,9 +157,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Sichuan_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/yu-zhi-lan-1196150)
+[View on Michelin Guide →](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/yu-zhi-lan-1196150)
 
 ---
 
@@ -165,9 +165,7 @@ From ** ¥¥¥¥**
 
 _1 Star / Sichuan_
 
-From ** ¥¥**
-
-[Book Now](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/fu-rong-huang)
+[View on Michelin Guide →](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/fu-rong-huang)
 
 ---
 
@@ -175,9 +173,7 @@ From ** ¥¥**
 
 _1 Star / Sichuan_
 
-From ** ¥¥**
-
-[Book Now](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/ma-s-kitchen)
+[View on Michelin Guide →](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/ma-s-kitchen)
 
 ---
 
@@ -185,9 +181,7 @@ From ** ¥¥**
 
 _1 Star / European Contemporary_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/the-hall)
+[View on Michelin Guide →](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/the-hall)
 
 ---
 
@@ -195,9 +189,7 @@ From ** ¥¥¥¥**
 
 _1 Star / Innovative_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/co)
+[View on Michelin Guide →](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/co)
 
 ---
 
@@ -205,9 +197,7 @@ From ** ¥¥¥¥**
 
 _1 Star / Vegetarian_
 
-From ** ¥¥**
-
-[Book Now](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/mi-xun-teahouse)
+[View on Michelin Guide →](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/mi-xun-teahouse)
 
 ---
 
@@ -215,9 +205,7 @@ From ** ¥¥**
 
 _1 Star / Sichuan_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/chaimen-hui)
+[View on Michelin Guide →](https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/chaimen-hui)
 
 ---
 

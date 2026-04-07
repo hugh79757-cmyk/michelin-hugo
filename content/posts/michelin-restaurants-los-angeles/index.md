@@ -99,15 +99,17 @@ When dining at these esteemed establishments, be prepared for a unique experienc
 In conclusion, Los Angeles offers a remarkable array of Michelin-rated dining options that cater to a variety of tastes and budgets. Whether you're in the mood for sushi, Italian, or contemporary Asian cuisine, the city's culinary scene is sure to impress.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Los Angeles on Viator →](https://www.viator.com/searchResults/all?text=Los%20Angeles%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Hayato](https://guide.michelin.com/en/california/us-los-angeles/restaurant/hayato)**
 
 _2 Stars / Japanese, Seafood_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/california/us-los-angeles/restaurant/hayato)
+[View on Michelin Guide →](https://guide.michelin.com/en/california/us-los-angeles/restaurant/hayato)
 
 ---
 
@@ -115,9 +117,7 @@ From ** $$$$**
 
 _1 Star / Korean Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/california/us-los-angeles/restaurant/restaurant-ki)
+[View on Michelin Guide →](https://guide.michelin.com/en/california/us-los-angeles/restaurant/restaurant-ki)
 
 ---
 
@@ -125,9 +125,7 @@ From ** $$$$**
 
 _1 Star / Japanese, Sushi_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/california/us-los-angeles/restaurant/mori-nozomi)
+[View on Michelin Guide →](https://guide.michelin.com/en/california/us-los-angeles/restaurant/mori-nozomi)
 
 ---
 
@@ -135,9 +133,7 @@ From ** $$$$**
 
 _1 Star / Contemporary, Asian_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/california/us-los-angeles/restaurant/orsa-winston)
+[View on Michelin Guide →](https://guide.michelin.com/en/california/us-los-angeles/restaurant/orsa-winston)
 
 ---
 
@@ -145,9 +141,7 @@ From ** $$$$**
 
 _1 Star / Japanese_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/california/us-los-angeles/restaurant/uka)
+[View on Michelin Guide →](https://guide.michelin.com/en/california/us-los-angeles/restaurant/uka)
 
 ---
 
@@ -155,9 +149,7 @@ From ** $$$$**
 
 _1 Star / Japanese, Sushi_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/california/us-los-angeles/restaurant/morihiro)
+[View on Michelin Guide →](https://guide.michelin.com/en/california/us-los-angeles/restaurant/morihiro)
 
 ---
 
@@ -165,9 +157,7 @@ From ** $$$$**
 
 _1 Star / Japanese, Sushi_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/california/us-los-angeles/restaurant/sushi-kaneyoshi)
+[View on Michelin Guide →](https://guide.michelin.com/en/california/us-los-angeles/restaurant/sushi-kaneyoshi)
 
 ---
 
@@ -175,9 +165,7 @@ From ** $$$$**
 
 _1 Star / Japanese, Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/california/us-los-angeles/restaurant/n-naka)
+[View on Michelin Guide →](https://guide.michelin.com/en/california/us-los-angeles/restaurant/n-naka)
 
 ---
 

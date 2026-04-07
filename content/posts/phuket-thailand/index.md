@@ -106,11 +106,13 @@ Phuket is a culinary haven, offering a delightful mix of flavors that reflect it
 
 When dining, you can choose between casual street food stalls for budget-friendly options or sit-down restaurants for a more upscale experience. Many local eateries offer delicious meals at reasonable prices, allowing you to enjoy Phuket's culinary scene without overspending.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Phuket on Viator →](https://www.viator.com/searchResults/all?text=Phuket%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Similan Islands Snorkeling VIP Tour From Phuket](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0c/05/c3/b0.jpg)](https://www.viator.com/tours/Phuket/Similan-Islands-Snorkeling-VIP-Tour-From-Phuket/d349-110534P225?pid=P00295226&mcid=42383&medium=link)
 
@@ -120,7 +122,7 @@ _Jet Boat Rentals_
 
 From **$105**
 
-[Book Now →](https://www.viator.com/tours/Phuket/Similan-Islands-Snorkeling-VIP-Tour-From-Phuket/d349-110534P225?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Phuket/Similan-Islands-Snorkeling-VIP-Tour-From-Phuket/d349-110534P225?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -132,7 +134,7 @@ _Jet Ski Rentals_
 
 From **$32**
 
-[Book Now →](https://www.viator.com/tours/Phuket/3-Khai-Islands-Tour-Snorkel-Swim-and-Relax-Half-or-Full-Day/d349-381902P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Phuket/3-Khai-Islands-Tour-Snorkel-Swim-and-Relax-Half-or-Full-Day/d349-381902P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -144,7 +146,7 @@ _Airport & Hotel Transfers_
 
 From **$122**
 
-[Book Now →](https://www.viator.com/tours/Phuket/Phuket-Airport-Transfers-Phuket-City-to-Phuket-Airport-HKT-in-Luxury-Van/d349-85439P1091?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Phuket/Phuket-Airport-Transfers-Phuket-City-to-Phuket-Airport-HKT-in-Luxury-Van/d349-85439P1091?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -156,7 +158,7 @@ _Airport & Hotel Transfers_
 
 From **$122**
 
-[Book Now →](https://www.viator.com/tours/Phuket/Departure-Private-Transfers-from-Phuket-City-to-Phuket-Airport-HKT/d349-85439P1095?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Phuket/Departure-Private-Transfers-from-Phuket-City-to-Phuket-Airport-HKT/d349-85439P1095?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -168,7 +170,7 @@ _Airport & Hotel Transfers_
 
 From **$111**
 
-[Book Now →](https://www.viator.com/tours/Phuket/Airport-Transfer-Phuket-to-Phuket-Airport-HKT-by-Business-Car/d349-85439P1089?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Phuket/Airport-Transfer-Phuket-to-Phuket-Airport-HKT-by-Business-Car/d349-85439P1089?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

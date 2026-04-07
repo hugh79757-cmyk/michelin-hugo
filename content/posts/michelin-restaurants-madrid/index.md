@@ -106,15 +106,17 @@ Dress codes may vary, but a smart casual approach is generally a safe bet. Lastl
  Madrid's Michelin dining scene offers a rich array of options for food enthusiasts, from the pinnacle of culinary artistry at DiverXO to the innovative and accessible fare found in one-star and Bib Gourmand establishments. Whether you are a local or a visitor, exploring these restaurants will undoubtedly provide a memorable insight into the city's lively food culture.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Madrid on Viator →](https://www.viator.com/searchResults/all?text=Madrid%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[DiverXO](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/diverxo)**
 
 _3 Stars / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/diverxo)
+[View on Michelin Guide →](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/diverxo)
 
 ---
 
@@ -122,9 +124,7 @@ From ** €€€€**
 
 _2 Stars / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/ramon-freixa-atelier)
+[View on Michelin Guide →](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/ramon-freixa-atelier)
 
 ---
 
@@ -132,9 +132,7 @@ From ** €€€€**
 
 _2 Stars / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/coque)
+[View on Michelin Guide →](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/coque)
 
 ---
 
@@ -142,9 +140,7 @@ From ** €€€€**
 
 _2 Stars / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/dstage)
+[View on Michelin Guide →](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/dstage)
 
 ---
 
@@ -152,9 +148,7 @@ From ** €€€€**
 
 _2 Stars / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/la-terraza-del-casino)
+[View on Michelin Guide →](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/la-terraza-del-casino)
 
 ---
 
@@ -162,9 +156,7 @@ From ** €€€€**
 
 _2 Stars / Contemporary_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/smoked-room)
+[View on Michelin Guide →](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/smoked-room)
 
 ---
 
@@ -172,9 +164,7 @@ From ** €€€€**
 
 _2 Stars / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/deessa)
+[View on Michelin Guide →](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/deessa)
 
 ---
 
@@ -182,9 +172,7 @@ From ** €€€€**
 
 _1 Star / Modern Cuisine, Contemporary_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/emi)
+[View on Michelin Guide →](https://guide.michelin.com/en/comunidad-de-madrid/madrid/restaurant/emi)
 
 ---
 

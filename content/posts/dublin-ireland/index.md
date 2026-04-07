@@ -115,11 +115,13 @@ Dublin's culinary scene is a delightful mix of traditional Irish dishes and mode
 
 For dining, consider a mix of casual eateries and fine dining spots. Pubs often serve excellent food alongside their drinks, while restaurants may offer more refined experiences. Don't hesitate to ask locals for their favorite spots!
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Dublin on Viator →](https://www.viator.com/searchResults/all?text=Dublin%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Ireland Through the Eyes of the Artist](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c8/6a/5c/caption.jpg)](https://www.viator.com/tours/Dublin/Ireland-Through-the-Eyes-of-the-Artist/d503-5646164P1?pid=P00295226&mcid=42383&medium=link)
 
@@ -129,7 +131,7 @@ _Art Tours_
 
 From **$207**
 
-[Book Now →](https://www.viator.com/tours/Dublin/Ireland-Through-the-Eyes-of-the-Artist/d503-5646164P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Dublin/Ireland-Through-the-Eyes-of-the-Artist/d503-5646164P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -141,7 +143,7 @@ _Ports of Call Tours_
 
 From **$375**
 
-[Book Now →](https://www.viator.com/tours/Dublin/4-Hour-Private-Dublin-City-Sightseeing-Tour-1-7-People/d503-317794P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Dublin/4-Hour-Private-Dublin-City-Sightseeing-Tour-1-7-People/d503-317794P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -153,7 +155,7 @@ _Day Trips_
 
 From **$658**
 
-[Book Now →](https://www.viator.com/tours/Dublin/Private-Tour-of-Glendalough-and-Powerscourt-Gardens-1-7-ppl/d503-317794P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Dublin/Private-Tour-of-Glendalough-and-Powerscourt-Gardens-1-7-ppl/d503-317794P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -165,7 +167,7 @@ _Day Trips_
 
 From **$658**
 
-[Book Now →](https://www.viator.com/tours/Dublin/Private-Tour-of-Howth-and-Malahide-Villages/d503-317794P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Dublin/Private-Tour-of-Howth-and-Malahide-Villages/d503-317794P6?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -177,7 +179,7 @@ _Day Trips_
 
 From **$658**
 
-[Book Now →](https://www.viator.com/tours/Dublin/Newgrange-Passage-Tomb-and-Ancient-Irish-Sites-Tour/d503-317794P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Dublin/Newgrange-Passage-Tomb-and-Ancient-Irish-Sites-Tour/d503-317794P8?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

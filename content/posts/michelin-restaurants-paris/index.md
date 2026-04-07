@@ -183,15 +183,17 @@ When dining in Michelin-starred restaurants, it's customary to dress smartly. Wh
 In conclusion, Paris is a culinary paradise that offers a rich tapestry of dining experiences, from opulent three-star establishments to charming one-star gems. With its diverse range of cuisines and exceptional quality, the Michelin Guide serves as an invaluable resource for food lovers exploring the city's vibrant gastronomic landscape. Whether you are a seasoned gourmet or a curious traveler, the Michelin restaurants of Paris promise to delight and inspire your palate.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Paris on Viator →](https://www.viator.com/searchResults/all?text=Paris%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[L'Ambroisie](https://guide.michelin.com/en/ile-de-france/paris/restaurant/l-ambroisie)**
 
 _3 Stars / Classic Cuisine_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/ile-de-france/paris/restaurant/l-ambroisie)
+[View on Michelin Guide →](https://guide.michelin.com/en/ile-de-france/paris/restaurant/l-ambroisie)
 
 ---
 
@@ -199,9 +201,7 @@ From ** €€€€**
 
 _3 Stars / Modern Cuisine_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/ile-de-france/paris/restaurant/epicure)
+[View on Michelin Guide →](https://guide.michelin.com/en/ile-de-france/paris/restaurant/epicure)
 
 ---
 
@@ -209,9 +209,7 @@ From ** €€€€**
 
 _3 Stars / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/ile-de-france/paris/restaurant/arpege)
+[View on Michelin Guide →](https://guide.michelin.com/en/ile-de-france/paris/restaurant/arpege)
 
 ---
 
@@ -219,9 +217,7 @@ From ** €€€€**
 
 _3 Stars / Creative, Contemporary_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/ile-de-france/paris/restaurant/le-pre-catelan)
+[View on Michelin Guide →](https://guide.michelin.com/en/ile-de-france/paris/restaurant/le-pre-catelan)
 
 ---
 
@@ -229,9 +225,7 @@ From ** €€€€**
 
 _3 Stars / Modern Cuisine_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/ile-de-france/paris/restaurant/le-cinq6102)
+[View on Michelin Guide →](https://guide.michelin.com/en/ile-de-france/paris/restaurant/le-cinq6102)
 
 ---
 
@@ -239,9 +233,7 @@ From ** €€€€**
 
 _3 Stars / Modern Cuisine, Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/ile-de-france/paris/restaurant/kei)
+[View on Michelin Guide →](https://guide.michelin.com/en/ile-de-france/paris/restaurant/kei)
 
 ---
 
@@ -249,9 +241,7 @@ From ** €€€€**
 
 _3 Stars / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/ile-de-france/paris/restaurant/plenitude-cheval-blanc-paris)
+[View on Michelin Guide →](https://guide.michelin.com/en/ile-de-france/paris/restaurant/plenitude-cheval-blanc-paris)
 
 ---
 
@@ -259,9 +249,7 @@ From ** €€€€**
 
 _3 Stars / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/ile-de-france/paris/restaurant/pierre-gagnaire6112)
+[View on Michelin Guide →](https://guide.michelin.com/en/ile-de-france/paris/restaurant/pierre-gagnaire6112)
 
 ---
 

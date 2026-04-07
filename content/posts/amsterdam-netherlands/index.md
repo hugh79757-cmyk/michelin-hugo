@@ -115,11 +115,13 @@ Amsterdam’s culinary scene is as diverse as its population, offering a delight
 
 For dining options, you’ll find everything from cozy cafes to Michelin-starred restaurants. Street food is a great way to experience local flavors without breaking the bank, while restaurants can range from casual to fine dining, catering to various budgets.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Amsterdam on Viator →](https://www.viator.com/searchResults/all?text=Amsterdam%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Amsterdam off the Beaten Path: A Self Guided Expedition](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/67/2b/97.jpg)](https://www.viator.com/tours/Amsterdam/Amsterdam-off-the-Beaten-Path-A-Self-Guided-Expedition/d525-5520738P5?pid=P00295226&mcid=42383&medium=link)
 
@@ -127,9 +129,7 @@ For dining options, you’ll find everything from cozy cafes to Michelin-starred
 
 _Audio Guides_
 
-From **$1**
-
-[Book Now →](https://www.viator.com/tours/Amsterdam/Amsterdam-off-the-Beaten-Path-A-Self-Guided-Expedition/d525-5520738P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Amsterdam/Amsterdam-off-the-Beaten-Path-A-Self-Guided-Expedition/d525-5520738P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -141,7 +141,7 @@ _Day Trips_
 
 From **$21**
 
-[Book Now →](https://www.viator.com/tours/Amsterdam/Amsterdam-Volendam-Tour-with-Cheese-Clogs-and-Historic-Harbour/d525-332919P33?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Amsterdam/Amsterdam-Volendam-Tour-with-Cheese-Clogs-and-Historic-Harbour/d525-332919P33?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -153,7 +153,7 @@ _Attractions & Museums_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Amsterdam/AMAZE-Immersive-Audiovisual-Experience-Amsterdam/d525-5504564P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Amsterdam/AMAZE-Immersive-Audiovisual-Experience-Amsterdam/d525-5504564P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -165,7 +165,7 @@ _City Tours_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Amsterdam/Self-Guided-Canals-of-Amsterdam-Photography-Tour/d525-30066P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Amsterdam/Self-Guided-Canals-of-Amsterdam-Photography-Tour/d525-30066P12?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -177,7 +177,7 @@ _City Tours_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Amsterdam/Self-Guided-Red-Light-District-Amsterdam-Photography-Tour/d525-30066P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Amsterdam/Self-Guided-Red-Light-District-Amsterdam-Photography-Tour/d525-30066P13?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

@@ -102,11 +102,13 @@ Seville's culinary scene is a delightful journey through traditional Andalusian 
 
 When dining out, consider trying a mix of local taverns and modern restaurants to get a taste of both traditional and contemporary Andalusian cuisine.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Seville on Viator →](https://www.viator.com/searchResults/all?text=Seville%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Tangier Luxury Private Guided Day Tour from Seville All Inclusive](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/69/fc/36.jpg)](https://www.viator.com/tours/Seville/Tangier-Luxury-Private-Guided-Day-Tour-from-Seville-All-Inclusive/d556-450081P6?pid=P00295226&mcid=42383&medium=link)
 
@@ -116,7 +118,7 @@ _Underground Tours_
 
 From **$595**
 
-[Book Now →](https://www.viator.com/tours/Seville/Tangier-Luxury-Private-Guided-Day-Tour-from-Seville-All-Inclusive/d556-450081P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Seville/Tangier-Luxury-Private-Guided-Day-Tour-from-Seville-All-Inclusive/d556-450081P6?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -128,7 +130,7 @@ _Underground Tours_
 
 From **$615**
 
-[Book Now →](https://www.viator.com/tours/Seville/Authentic-Private-Tangier-Tour-from-Seville-Camel-Ride-and-Lunch/d556-450081P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Seville/Authentic-Private-Tangier-Tour-from-Seville-Camel-Ride-and-Lunch/d556-450081P9?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

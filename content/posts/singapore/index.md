@@ -111,11 +111,13 @@ Singapore is a food lover's paradise, boasting a diverse culinary scene that ref
 
 When it comes to dining, you’ll find a mix of street food stalls and upscale restaurants. Hawker centers are a must-visit for budget travelers, offering a wide variety of local dishes at affordable prices. For a more refined experience, consider dining in one of the city’s many fine dining establishments.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Singapore on Viator →](https://www.viator.com/searchResults/all?text=Singapore%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![A Self Guided Tropical Sojourn of Singapore Hidden Enclaves](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/30/b9/12.jpg)](https://www.viator.com/tours/Singapore/A-Self-Guided-Tropical-Sojourn-of-Singapore-Hidden-Enclaves/d60449-5520738P18?pid=P00295226&mcid=42383&medium=link)
 
@@ -123,9 +125,7 @@ When it comes to dining, you’ll find a mix of street food stalls and upscale r
 
 _Day Trips_
 
-From **$2**
-
-[Book Now →](https://www.viator.com/tours/Singapore/A-Self-Guided-Tropical-Sojourn-of-Singapore-Hidden-Enclaves/d60449-5520738P18?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Singapore/A-Self-Guided-Tropical-Sojourn-of-Singapore-Hidden-Enclaves/d60449-5520738P18?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -137,7 +137,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Singapore/Self-Guided-Secrets-of-Singapore-Exploration-Game/d60449-30066P198?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Singapore/Self-Guided-Secrets-of-Singapore-Exploration-Game/d60449-30066P198?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -149,7 +149,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Singapore/Self-Guided-The-Singapore-Syndicate-City-Escape-Game/d60449-30066P213?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Singapore/Self-Guided-The-Singapore-Syndicate-City-Escape-Game/d60449-30066P213?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -161,7 +161,7 @@ _Private and Luxury_
 
 From **$70**
 
-[Book Now →](https://www.viator.com/tours/Singapore/Singapore-Chinatown-Kampong-Glam-Little-India-Cultural-Tour/d60449-202009P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Singapore/Singapore-Chinatown-Kampong-Glam-Little-India-Cultural-Tour/d60449-202009P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -171,9 +171,7 @@ From **$70**
 
 _Private and Luxury_
 
-From **$6**
-
-[Book Now →](https://www.viator.com/tours/Singapore/Singapore-Walking-Tour-Self-Guided-City-Game/d60449-107194P192?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Singapore/Singapore-Walking-Tour-Self-Guided-City-Game/d60449-107194P192?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

@@ -99,11 +99,13 @@ When it comes to dining, Bodrum offers everything from casual eateries to upscal
 
 As you explore Bodrum’s culinary scene, don’t forget to sample **baklava**, a sweet pastry filled with nuts and honey, for dessert. This treat is a delightful way to end your meal and truly showcases the region's sweet flavors.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Bodrum on Viator →](https://www.viator.com/searchResults/all?text=Bodrum%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Bodrum Stroll Downtown's hidden](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/81/f0/55.jpg)](https://www.viator.com/tours/Bodrum/Bodrum-Stroll-Downtowns-hidden/d4292-392447P1?pid=P00295226&mcid=42383&medium=link)
 
@@ -113,7 +115,7 @@ _Archaeology Tours_
 
 From **$37**
 
-[Book Now →](https://www.viator.com/tours/Bodrum/Bodrum-Stroll-Downtowns-hidden/d4292-392447P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Bodrum/Bodrum-Stroll-Downtowns-hidden/d4292-392447P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -125,7 +127,7 @@ _Day Trips_
 
 From **$34**
 
-[Book Now →](https://www.viator.com/tours/Bodrum/Bodrum-Pirate-Partyboat/d4292-5644712P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Bodrum/Bodrum-Pirate-Partyboat/d4292-5644712P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -137,7 +139,7 @@ _Art Classes_
 
 From **$46**
 
-[Book Now →](https://www.viator.com/tours/Bodrum/Carpet-Weaving-and-Shopping-From-Villager-No-Middle-Man/d4292-10865P15?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Bodrum/Carpet-Weaving-and-Shopping-From-Villager-No-Middle-Man/d4292-10865P15?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -149,7 +151,7 @@ _Water Tours_
 
 From **$376**
 
-[Book Now →](https://www.viator.com/tours/Bodrum/Romantic-Private-Sunset-Yacht-Tour-with-Light-Dinner/d4292-85418P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Bodrum/Romantic-Private-Sunset-Yacht-Tour-with-Light-Dinner/d4292-85418P9?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -161,7 +163,7 @@ _Sailing_
 
 From **$753**
 
-[Book Now →](https://www.viator.com/tours/Bodrum/Private-Bodrum-Gulet-Cruise-with-All-Inclusive-Lunch/d4292-429521P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Bodrum/Private-Bodrum-Gulet-Cruise-with-All-Inclusive-Lunch/d4292-429521P9?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

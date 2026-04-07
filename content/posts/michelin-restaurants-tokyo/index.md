@@ -157,15 +157,17 @@ Reservations are highly recommended for Michelin-starred restaurants, as they ca
 In conclusion, Tokyo's Michelin dining scene is a treasure trove of culinary delights, offering something for everyone. Whether you indulge in a three-star sushi experience or savor the innovative flavors of a Bib Gourmand restaurant, the city's gastronomic landscape promises to leave a lasting impression.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Tokyo on Viator →](https://www.viator.com/searchResults/all?text=Tokyo%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Harutaka](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/harutaka)**
 
 _3 Stars / Sushi_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/harutaka)
+[View on Michelin Guide →](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/harutaka)
 
 ---
 
@@ -173,9 +175,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/kanda)
+[View on Michelin Guide →](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/kanda)
 
 ---
 
@@ -183,9 +183,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/azabu-kadowaki)
+[View on Michelin Guide →](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/azabu-kadowaki)
 
 ---
 
@@ -193,9 +191,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/myojaku)
+[View on Michelin Guide →](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/myojaku)
 
 ---
 
@@ -203,9 +199,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / French, Contemporary_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/sezanne)
+[View on Michelin Guide →](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/sezanne)
 
 ---
 
@@ -213,9 +207,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / French, French Contemporary_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/l-osier)
+[View on Michelin Guide →](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/l-osier)
 
 ---
 
@@ -223,9 +215,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / French, Contemporary_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/l-effervescence)
+[View on Michelin Guide →](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/l-effervescence)
 
 ---
 
@@ -233,9 +223,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / Japanese, Fugu / Pufferfish_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/ryugin-1194232)
+[View on Michelin Guide →](https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/ryugin-1194232)
 
 ---
 

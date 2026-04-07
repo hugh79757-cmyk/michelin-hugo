@@ -114,11 +114,13 @@ Hanoi is a paradise for food lovers, offering a wide array of delicious dishes t
 
 **Street Food vs. Restaurants**: You’ll find fantastic street food vendors scattered throughout the city, offering fresh and authentic local cuisine at affordable prices. However, if you’re looking for a sit-down experience, there are plenty of restaurants that serve traditional dishes with a modern twist. Be sure to try both to get the full Hanoi food experience!
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Hanoi on Viator →](https://www.viator.com/searchResults/all?text=Hanoi%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Private Hanoi Street Food Tour with a Local Student Guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ad/ba/f3/caption.jpg)](https://www.viator.com/tours/Hanoi/Private-Hanoi-Street-Food-Tour-with-a-Local-Student-Guide/d351-5585130P4?pid=P00295226&mcid=42383&medium=link)
 
@@ -126,9 +128,7 @@ Hanoi is a paradise for food lovers, offering a wide array of delicious dishes t
 
 _Street Food Tours_
 
-From **$1**
-
-[Book Now →](https://www.viator.com/tours/Hanoi/Private-Hanoi-Street-Food-Tour-with-a-Local-Student-Guide/d351-5585130P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Hanoi/Private-Hanoi-Street-Food-Tour-with-a-Local-Student-Guide/d351-5585130P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -140,7 +140,7 @@ _Cooking Classes_
 
 From **$38**
 
-[Book Now →](https://www.viator.com/tours/Hanoi/Hanoi-Cooking-Class-and-Market-Tour-with-Chef-Tien/d351-75533P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Hanoi/Hanoi-Cooking-Class-and-Market-Tour-with-Chef-Tien/d351-75533P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -152,7 +152,7 @@ _Multi-day Tours_
 
 From **$48**
 
-[Book Now →](https://www.viator.com/tours/Hanoi/Private-Car-and-Tour-Guide-Exploring-Northern-Vietnam/d351-177359P14?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Hanoi/Private-Car-and-Tour-Guide-Exploring-Northern-Vietnam/d351-177359P14?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -164,7 +164,7 @@ _Day Trips_
 
 From **$60**
 
-[Book Now →](https://www.viator.com/tours/Hanoi/Ha-Long-Bay-Cruise-from-Hanoi-Kayaking-and-Cave-Island-Adventure/d351-5495292P115?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Hanoi/Ha-Long-Bay-Cruise-from-Hanoi-Kayaking-and-Cave-Island-Adventure/d351-5495292P115?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -176,7 +176,7 @@ _Day Trips_
 
 From **$87**
 
-[Book Now →](https://www.viator.com/tours/Hanoi/Top-Luxury-5-Star-Day-Cruise-Discover-Halong-Bay-from-Hanoi/d351-5494982P98?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Hanoi/Top-Luxury-5-Star-Day-Cruise-Discover-Halong-Bay-from-Hanoi/d351-5494982P98?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

@@ -118,15 +118,17 @@ It's advisable to check the restaurant's website or contact them directly for an
  Lyon's Michelin dining scene reflects the city's rich culinary heritage and innovative spirit. With a range of options from two-star excellence to Bib Gourmand value, there is something for every palate and budget. Whether you are a local or a visitor, exploring Lyon's food landscape promises to be a rewarding experience.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Lyon on Viator →](https://www.viator.com/searchResults/all?text=Lyon%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Takao Takano](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/takao-takano)**
 
 _2 Stars / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/takao-takano)
+[View on Michelin Guide →](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/takao-takano)
 
 ---
 
@@ -134,9 +136,7 @@ From ** €€€€**
 
 _2 Stars / Classic Cuisine_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/mere-brazier)
+[View on Michelin Guide →](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/mere-brazier)
 
 ---
 
@@ -144,9 +144,7 @@ From ** €€€€**
 
 _2 Stars / Creative, Modern Cuisine_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-neuvieme-art)
+[View on Michelin Guide →](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/le-neuvieme-art)
 
 ---
 
@@ -154,9 +152,7 @@ From ** €€€€**
 
 _1 Star / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/ombellule)
+[View on Michelin Guide →](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/ombellule)
 
 ---
 
@@ -164,9 +160,7 @@ From ** €€€€**
 
 _1 Star / Modern Cuisine_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/les-terrasses-de-lyon)
+[View on Michelin Guide →](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/les-terrasses-de-lyon)
 
 ---
 
@@ -174,9 +168,7 @@ From ** €€€€**
 
 _1 Star / Modern Cuisine_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/l-atelier-des-augustins)
+[View on Michelin Guide →](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/l-atelier-des-augustins)
 
 ---
 
@@ -184,9 +176,7 @@ From ** €€€€**
 
 _1 Star / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/prairial)
+[View on Michelin Guide →](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/prairial)
 
 ---
 
@@ -194,9 +184,7 @@ From ** €€€€**
 
 _1 Star / Creative_
 
-From ** €€€€**
-
-[Book Now](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/au-14-fevrier281900)
+[View on Michelin Guide →](https://guide.michelin.com/en/auvergne-rhone-alpes/lyon/restaurant/au-14-fevrier281900)
 
 ---
 

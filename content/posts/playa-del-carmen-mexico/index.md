@@ -91,11 +91,13 @@ While street food offers an authentic taste of local life, Playa del Carmen also
 
 For those who wish to explore more international flavors, the town also offers a variety of options, including Italian, Asian, and Mediterranean cuisine. Whether you’re enjoying a casual meal at a beachside eatery or dining at a more upscale restaurant, the culinary experience in Playa del Carmen is sure to satisfy your taste buds.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Playa del Carmen on Viator →](https://www.viator.com/searchResults/all?text=Playa%20del%20Carmen%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Private Transportation to/from Playa del Carmen or Riviera Maya](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/2c/33/67.jpg)](https://www.viator.com/tours/Playa-del-Carmen/Private-Transportation-tofrom-Playa-del-Carmen-or-Riviera-Maya/d5501-279586P10?pid=P00295226&mcid=42383&medium=link)
 
@@ -105,7 +107,7 @@ _Airport & Hotel Transfers_
 
 From **$38**
 
-[Book Now →](https://www.viator.com/tours/Playa-del-Carmen/Private-Transportation-tofrom-Playa-del-Carmen-or-Riviera-Maya/d5501-279586P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Playa-del-Carmen/Private-Transportation-tofrom-Playa-del-Carmen-or-Riviera-Maya/d5501-279586P10?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -117,7 +119,7 @@ _Full-day Tours_
 
 From **$16**
 
-[Book Now →](https://www.viator.com/tours/Playa-del-Carmen/4X1-Enjoy-a-tour-to-Tulum-Coba-Cenote-and-Playa-del-Carmen/d5501-242993P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Playa-del-Carmen/4X1-Enjoy-a-tour-to-Tulum-Coba-Cenote-and-Playa-del-Carmen/d5501-242993P7?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -129,7 +131,7 @@ _Day Trips_
 
 From **$264**
 
-[Book Now →](https://www.viator.com/tours/Playa-del-Carmen/Cenote-and-Swimming-with-Turtles-Private-Tour-in-Akumal/d5501-391831P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Playa-del-Carmen/Cenote-and-Swimming-with-Turtles-Private-Tour-in-Akumal/d5501-391831P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -141,7 +143,7 @@ _Day Trips_
 
 From **$328**
 
-[Book Now →](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-to-Tulum-Cenote-and-Swimming-with-Turtles/d5501-391831P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-to-Tulum-Cenote-and-Swimming-with-Turtles/d5501-391831P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -153,7 +155,7 @@ _Full-day Tours_
 
 From **$360**
 
-[Book Now →](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-Chichen-Itza-Cenote-Oxman-and-Lunch-in-Valladolid/d5501-391831P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-Chichen-Itza-Cenote-Oxman-and-Lunch-in-Valladolid/d5501-391831P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

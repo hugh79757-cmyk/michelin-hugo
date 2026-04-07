@@ -135,15 +135,17 @@ When dining at a Michelin-starred restaurant, consider the following tips to enh
 With its rich culinary landscape and an abundance of Michelin-starred restaurants, London is a food lover's paradise. Whether you are indulging in a lavish three-star meal or exploring the innovative offerings of one-star establishments, the city promises a dining experience that is both memorable and delicious.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in London on Viator →](https://www.viator.com/searchResults/all?text=London%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Alain Ducasse at The Dorchester](https://guide.michelin.com/en/greater-london/london/restaurant/alain-ducasse-at-the-dorchester)**
 
 _3 Stars / French_
 
-From ** ££££**
-
-[Book Now](https://guide.michelin.com/en/greater-london/london/restaurant/alain-ducasse-at-the-dorchester)
+[View on Michelin Guide →](https://guide.michelin.com/en/greater-london/london/restaurant/alain-ducasse-at-the-dorchester)
 
 ---
 
@@ -151,9 +153,7 @@ From ** ££££**
 
 _3 Stars / Modern Cuisine_
 
-From ** ££££**
-
-[Book Now](https://guide.michelin.com/en/greater-london/london/restaurant/the-ledbury)
+[View on Michelin Guide →](https://guide.michelin.com/en/greater-london/london/restaurant/the-ledbury)
 
 ---
 
@@ -161,9 +161,7 @@ From ** ££££**
 
 _3 Stars / Modern French_
 
-From ** ££££**
-
-[Book Now](https://guide.michelin.com/en/greater-london/london/restaurant/sketch-the-lecture-room-library)
+[View on Michelin Guide →](https://guide.michelin.com/en/greater-london/london/restaurant/sketch-the-lecture-room-library)
 
 ---
 
@@ -171,9 +169,7 @@ From ** ££££**
 
 _3 Stars / Modern British_
 
-From ** ££££**
-
-[Book Now](https://guide.michelin.com/en/greater-london/london/restaurant/core-by-clare-smyth)
+[View on Michelin Guide →](https://guide.michelin.com/en/greater-london/london/restaurant/core-by-clare-smyth)
 
 ---
 
@@ -181,9 +177,7 @@ From ** ££££**
 
 _3 Stars / Modern Cuisine_
 
-From ** ££££**
-
-[Book Now](https://guide.michelin.com/en/greater-london/london/restaurant/helene-darroze-at-the-connaught)
+[View on Michelin Guide →](https://guide.michelin.com/en/greater-london/london/restaurant/helene-darroze-at-the-connaught)
 
 ---
 
@@ -191,9 +185,7 @@ From ** ££££**
 
 _3 Stars / French_
 
-From ** ££££**
-
-[Book Now](https://guide.michelin.com/en/greater-london/london/restaurant/restaurant-gordon-ramsay)
+[View on Michelin Guide →](https://guide.michelin.com/en/greater-london/london/restaurant/restaurant-gordon-ramsay)
 
 ---
 
@@ -201,9 +193,7 @@ From ** ££££**
 
 _2 Stars / Modern Cuisine_
 
-From ** ££££**
-
-[Book Now](https://guide.michelin.com/en/greater-london/london/restaurant/bonheur-by-matt-abe)
+[View on Michelin Guide →](https://guide.michelin.com/en/greater-london/london/restaurant/bonheur-by-matt-abe)
 
 ---
 
@@ -211,9 +201,7 @@ From ** ££££**
 
 _2 Stars / Chinese_
 
-From ** ££££**
-
-[Book Now](https://guide.michelin.com/en/greater-london/london/restaurant/a-wong)
+[View on Michelin Guide →](https://guide.michelin.com/en/greater-london/london/restaurant/a-wong)
 
 ---
 

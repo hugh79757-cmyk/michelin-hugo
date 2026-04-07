@@ -101,11 +101,13 @@ Reservations are highly recommended for Michelin-listed restaurants in Bolzano, 
 
 For a seamless experience, consider checking the restaurant's menu online before your visit, as many Michelin establishments frequently update their offerings based on seasonal ingredients.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Bolzano on Viator →](https://www.viator.com/searchResults/all?text=Bolzano%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![St. Mark's Basilica Guided Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/87/b2/b3/caption.jpg)](https://www.viator.com/tours/Venice/St-Marks-Basilica-Guided-Tour/d522-62416P63?pid=P00295226&mcid=42383&medium=link)
 
@@ -115,7 +117,7 @@ _Private and Luxury_
 
 From **$81**
 
-[Book Now →](https://www.viator.com/tours/Venice/St-Marks-Basilica-Guided-Tour/d522-62416P63?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Venice/St-Marks-Basilica-Guided-Tour/d522-62416P63?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -127,7 +129,7 @@ _Day Trips_
 
 From **$93**
 
-[Book Now →](https://www.viator.com/tours/Venice/Murano-Burano-Torcello-Tour-by-Classic-Venetian-Boat/d522-6476P123?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Venice/Murano-Burano-Torcello-Tour-by-Classic-Venetian-Boat/d522-6476P123?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -139,7 +141,7 @@ _Day Trips_
 
 From **$58**
 
-[Book Now →](https://www.viator.com/tours/Venice/Murano-and-Burano-Venice-Lagoon-Cruise-on-a-Traditional-Boat/d522-6476P125?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Venice/Murano-and-Burano-Venice-Lagoon-Cruise-on-a-Traditional-Boat/d522-6476P125?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -151,7 +153,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Venice/Venice-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d522-30066P122?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Venice/Venice-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d522-30066P122?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -163,7 +165,7 @@ _Photography Tours_
 
 From **$265**
 
-[Book Now →](https://www.viator.com/tours/Venice/Venice-Photoshoot/d522-5640599P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Venice/Venice-Photoshoot/d522-5640599P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

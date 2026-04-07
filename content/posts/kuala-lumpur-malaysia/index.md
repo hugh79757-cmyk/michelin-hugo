@@ -106,11 +106,13 @@ Kuala Lumpur is a food lover’s paradise, offering a diverse array of cuisines 
 
 When it comes to dining, you’ll find a mix of street food stalls, food courts, and upscale restaurants. For an authentic experience, venture into local hawker centers where you can sample a variety of dishes at affordable prices.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Kuala Lumpur on Viator →](https://www.viator.com/searchResults/all?text=Kuala%20Lumpur%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Historical Malacca Day Tour With Lunch](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/1e/38/a6.jpg)](https://www.viator.com/tours/Kuala-Lumpur/Historical-Malacca-Day-Tour-With-Lunch/d335-192391P3?pid=P00295226&mcid=42383&medium=link)
 
@@ -120,7 +122,7 @@ _Day Trips_
 
 From **$77**
 
-[Book Now →](https://www.viator.com/tours/Kuala-Lumpur/Historical-Malacca-Day-Tour-With-Lunch/d335-192391P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Kuala-Lumpur/Historical-Malacca-Day-Tour-With-Lunch/d335-192391P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -132,7 +134,7 @@ _Half-day Tours_
 
 From **$100**
 
-[Book Now →](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Countryside-Jewel-Batu-Caves-Private-Guided-Tour/d335-62272P46?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Countryside-Jewel-Batu-Caves-Private-Guided-Tour/d335-62272P46?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -144,7 +146,7 @@ _Half-day Tours_
 
 From **$100**
 
-[Book Now →](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Glimpse-Of-Kuala-Lumpur-Batu-Caves-KLCC-Merdeka-118/d335-62272P47?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Glimpse-Of-Kuala-Lumpur-Batu-Caves-KLCC-Merdeka-118/d335-62272P47?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -156,7 +158,7 @@ _Day Trips_
 
 From **$121**
 
-[Book Now →](https://www.viator.com/tours/Kuala-Lumpur/Wonders-of-Kuala-Lumpur-City-and-Countryside-Batu-Caves-Private-Guided-Tour/d335-62272P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Kuala-Lumpur/Wonders-of-Kuala-Lumpur-City-and-Countryside-Batu-Caves-Private-Guided-Tour/d335-62272P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -168,7 +170,7 @@ _Day Trips_
 
 From **$240**
 
-[Book Now →](https://www.viator.com/tours/Kuala-Lumpur/Fire-fly-tour-from-Kuala-lumpur/d335-456839P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Kuala-Lumpur/Fire-fly-tour-from-Kuala-lumpur/d335-456839P9?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

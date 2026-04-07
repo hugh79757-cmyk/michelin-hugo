@@ -117,15 +117,17 @@ Dress codes may vary, so it is advisable to check in advance to ensure a comfort
 </div>
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Dubai on Viator →](https://www.viator.com/searchResults/all?text=Dubai%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Trèsind Studio](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/tresind-studio)**
 
 _3 Stars / Indian_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/tresind-studio)
+[View on Michelin Guide →](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/tresind-studio)
 
 ---
 
@@ -133,9 +135,7 @@ From ** $$$$**
 
 _3 Stars / Modern Cuisine_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/fzn-by-bjorn-frantzen)
+[View on Michelin Guide →](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/fzn-by-bjorn-frantzen)
 
 ---
 
@@ -143,9 +143,7 @@ From ** $$$$**
 
 _2 Stars / French_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/stay-by-yannick-alleno)
+[View on Michelin Guide →](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/stay-by-yannick-alleno)
 
 ---
 
@@ -153,9 +151,7 @@ From ** $$$$**
 
 _2 Stars / Italian_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/il-ristorante-niko-romito-1196980)
+[View on Michelin Guide →](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/il-ristorante-niko-romito-1196980)
 
 ---
 
@@ -163,9 +159,7 @@ From ** $$$$**
 
 _2 Stars / Creative_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/row-on-45)
+[View on Michelin Guide →](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/row-on-45)
 
 ---
 
@@ -173,9 +167,7 @@ From ** $$$$**
 
 _1 Star / French_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/al-muntaha)
+[View on Michelin Guide →](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/al-muntaha)
 
 ---
 
@@ -183,9 +175,7 @@ From ** $$$$**
 
 _1 Star / Modern French_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/la-dame-de-pic-dubai)
+[View on Michelin Guide →](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/la-dame-de-pic-dubai)
 
 ---
 
@@ -193,9 +183,7 @@ From ** $$$$**
 
 _1 Star / Portuguese_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/tasca-by-jose-avillez)
+[View on Michelin Guide →](https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/tasca-by-jose-avillez)
 
 ---
 

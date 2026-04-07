@@ -106,11 +106,13 @@ Porto’s culinary scene is a delightful blend of traditional Portuguese flavors
 
 - **Street Food vs. Restaurants**: For a more casual experience, try street food at local markets or food stalls. You can find delicious offerings like bifanas (pork sandwiches) and chouriço (smoked sausage). For a sit-down meal, look for traditional tascas (small restaurants) that serve authentic Portuguese dishes at reasonable prices.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Porto on Viator →](https://www.viator.com/searchResults/all?text=Porto%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Porto's Old Town Tour & Ribeira](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/48/b8/44.jpg)](https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link)
 
@@ -118,9 +120,7 @@ Porto’s culinary scene is a delightful blend of traditional Portuguese flavors
 
 _Walking Tours_
 
-From **$1**
-
-[Book Now →](https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -130,9 +130,7 @@ From **$1**
 
 _Walking Tours_
 
-From **$1**
-
-[Book Now →](https://www.viator.com/tours/Porto/Tour-of-Vila-Nova-de-Gaia/d26879-405817P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Porto/Tour-of-Vila-Nova-de-Gaia/d26879-405817P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -142,9 +140,7 @@ From **$1**
 
 _Audio Guides_
 
-From **$1**
-
-[Book Now →](https://www.viator.com/tours/Porto/Self-Guided-Tour-Adventure-Discovering-Porto/d26879-466226P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Porto/Self-Guided-Tour-Adventure-Discovering-Porto/d26879-466226P6?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -156,7 +152,7 @@ _Historical Tours_
 
 From **$21**
 
-[Book Now →](https://www.viator.com/tours/Porto/Fado-Show-in-Porto-and-Guided-Tour/d26879-75688P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Porto/Fado-Show-in-Porto-and-Guided-Tour/d26879-75688P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -168,7 +164,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Porto/Porto-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d26879-30066P121?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Porto/Porto-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d26879-30066P121?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

@@ -117,11 +117,13 @@ Vienna is a culinary delight, offering a mix of traditional Austrian dishes and 
 
 While there are plenty of casual dining options, don’t hesitate to indulge in a sit-down meal at a traditional Viennese restaurant to fully appreciate the local cuisine.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Vienna on Viator →](https://www.viator.com/searchResults/all?text=Vienna%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![From Vienna Guided Day Trip to Bratislava and Budapest](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0e/31/a7.jpg)](https://www.viator.com/tours/Vienna/From-Vienna-Guided-Day-Trip-to-Bratislava-and-Budapest/d454-5530468P11?pid=P00295226&mcid=42383&medium=link)
 
@@ -131,7 +133,7 @@ _Full-day Tours_
 
 From **$100**
 
-[Book Now →](https://www.viator.com/tours/Vienna/From-Vienna-Guided-Day-Trip-to-Bratislava-and-Budapest/d454-5530468P11?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Vienna/From-Vienna-Guided-Day-Trip-to-Bratislava-and-Budapest/d454-5530468P11?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -143,7 +145,7 @@ _Full-day Tours_
 
 From **$164**
 
-[Book Now →](https://www.viator.com/tours/Vienna/Prague-Full-Day-Guided-Tour-From-Vienna/d454-5512706P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Vienna/Prague-Full-Day-Guided-Tour-From-Vienna/d454-5512706P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -155,7 +157,7 @@ _Dinner and Show Tickets_
 
 From **$43**
 
-[Book Now →](https://www.viator.com/tours/Vienna/Imperial-Gala-Concert-at-Palais-Auersperg-Vienna/d454-5605703P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Vienna/Imperial-Gala-Concert-at-Palais-Auersperg-Vienna/d454-5605703P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -165,9 +167,7 @@ From **$43**
 
 _Architecture Tours_
 
-From **$6**
-
-[Book Now →](https://www.viator.com/tours/Vienna/Vienna-Spy-Mission-Self-Guided-Espionage-Adventure/d454-107194P59?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Vienna/Vienna-Spy-Mission-Self-Guided-Espionage-Adventure/d454-107194P59?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -179,7 +179,7 @@ _Classical Concerts_
 
 From **$56**
 
-[Book Now →](https://www.viator.com/tours/Vienna/Vienna-Premium-Orchestra-Best-of-Mozart-and-Strauss-ViennaVienna/d454-5566906P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Vienna/Vienna-Premium-Orchestra-Best-of-Mozart-and-Strauss-ViennaVienna/d454-5566906P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

@@ -109,11 +109,13 @@ Athens is a culinary paradise, offering a range of delectable dishes that reflec
 
 Street food is widely available in Athens, and trying it is a great way to experience local flavors. However, dining in a traditional taverna can also be rewarding, as you’ll enjoy a more leisurely meal with authentic Greek hospitality.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Athens on Viator →](https://www.viator.com/searchResults/all?text=Athens%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Self Guided Walking Tour in Athens Hidden Gems](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/be/40/fc.jpg)](https://www.viator.com/tours/Athens/Self-Guided-Walking-Tour-in-Athens-Hidden-Gems/d496-5520738P26?pid=P00295226&mcid=42383&medium=link)
 
@@ -121,9 +123,7 @@ Street food is widely available in Athens, and trying it is a great way to exper
 
 _Audio Guides_
 
-From **$2**
-
-[Book Now →](https://www.viator.com/tours/Athens/Self-Guided-Walking-Tour-in-Athens-Hidden-Gems/d496-5520738P26?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Athens/Self-Guided-Walking-Tour-in-Athens-Hidden-Gems/d496-5520738P26?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -135,7 +135,7 @@ _Private and Luxury_
 
 From **$35**
 
-[Book Now →](https://www.viator.com/tours/Athens/Philosophy-and-Democracy-tour-of-Athens/d496-165642P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Athens/Philosophy-and-Democracy-tour-of-Athens/d496-165642P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -147,7 +147,7 @@ _City Tours_
 
 From **$107**
 
-[Book Now →](https://www.viator.com/tours/Athens/Athens-city-private-tour/d496-105867P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Athens/Athens-city-private-tour/d496-105867P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -159,7 +159,7 @@ _Art Classes_
 
 From **$174**
 
-[Book Now →](https://www.viator.com/tours/Athens/Athens-Private-Photoshoot-Experience/d496-397315P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Athens/Athens-Private-Photoshoot-Experience/d496-397315P10?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -171,7 +171,7 @@ _Private and Luxury_
 
 From **$35**
 
-[Book Now →](https://www.viator.com/tours/Athens/Ancient-Athens-Tour-Philosophy-History-Politics/d496-5609419P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Athens/Ancient-Athens-Tour-Philosophy-History-Politics/d496-5609419P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

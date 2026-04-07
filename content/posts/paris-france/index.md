@@ -118,11 +118,13 @@ Paris is a culinary paradise, offering everything from street food to Michelin-s
 
 For a taste of local life, don’t miss the street food scene. Try crêpes from street vendors or visit a market for fresh produce, cheese, and ready-to-eat meals. Dining at a traditional bistro or brasserie offers a more formal experience, where you can savor local dishes in a cozy atmosphere.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Paris on Viator →](https://www.viator.com/searchResults/all?text=Paris%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Paris Hidden Gems: Self Guided Secret Spots Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/12/91/4a.jpg)](https://www.viator.com/tours/Paris/Paris-Hidden-Gems-Self-Guided-Secret-Spots-Tour/d479-5520738P40?pid=P00295226&mcid=42383&medium=link)
 
@@ -130,9 +132,7 @@ For a taste of local life, don’t miss the street food scene. Try crêpes from 
 
 _Audio Guides_
 
-From **$1**
-
-[Book Now →](https://www.viator.com/tours/Paris/Paris-Hidden-Gems-Self-Guided-Secret-Spots-Tour/d479-5520738P40?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Paris/Paris-Hidden-Gems-Self-Guided-Secret-Spots-Tour/d479-5520738P40?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -144,7 +144,7 @@ _City Tours_
 
 From **$85**
 
-[Book Now →](https://www.viator.com/tours/Paris/Paris-Flea-Market-Private-Tour-Saint-Ouen-Antiques-Vintage/d479-5594637P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Paris/Paris-Flea-Market-Private-Tour-Saint-Ouen-Antiques-Vintage/d479-5594637P13?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -156,7 +156,7 @@ _Private and Luxury_
 
 From **$58**
 
-[Book Now →](https://www.viator.com/tours/Paris/Paris-Notre-Dame-Cathedral-Interior-and-Ile-de-la-Cit-Guided-Tour/d479-51192P197?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Paris/Paris-Notre-Dame-Cathedral-Interior-and-Ile-de-la-Cit-Guided-Tour/d479-51192P197?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -168,7 +168,7 @@ _Half-day Tours_
 
 From **$540**
 
-[Book Now →](https://www.viator.com/tours/Paris/Private-tour-of-the-Main-Monuments-of-Paris/d479-123555P28?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Paris/Private-tour-of-the-Main-Monuments-of-Paris/d479-123555P28?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -180,7 +180,7 @@ _Walking Tours_
 
 From **$98**
 
-[Book Now →](https://www.viator.com/tours/Paris/A-special-evening-in-Paris/d479-181888P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Paris/A-special-evening-in-Paris/d479-181888P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

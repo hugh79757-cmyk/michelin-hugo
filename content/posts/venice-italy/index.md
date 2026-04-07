@@ -85,11 +85,13 @@ Street food is abundant in Venice, with vendors selling **fritto misto**, a deli
 
 For those seeking a more formal dining experience, the city boasts a number of upscale restaurants that focus on seasonal ingredients and innovative preparations. Many offer tasting menus that showcase the best of Venetian cuisine, allowing you to indulge in a multi-course meal that highlights local flavors.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Venice on Viator →](https://www.viator.com/searchResults/all?text=Venice%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Transfer from Venice Airport (VCE) to Trieste](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/7c/e1/38.jpg)](https://www.viator.com/tours/Venice/Transfer-from-Venice-Airport-VCE-to-Trieste/d522-5555850P1?pid=P00295226&mcid=42383&medium=link)
 
@@ -99,7 +101,7 @@ _Airport & Hotel Transfers_
 
 From **$186**
 
-[Book Now →](https://www.viator.com/tours/Venice/Transfer-from-Venice-Airport-VCE-to-Trieste/d522-5555850P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Venice/Transfer-from-Venice-Airport-VCE-to-Trieste/d522-5555850P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -111,7 +113,7 @@ _Port Transfers_
 
 From **$141**
 
-[Book Now →](https://www.viator.com/tours/Venice/Private-transfer-from-Venice-Airport-to-Fusina-Port/d522-5567813P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Venice/Private-transfer-from-Venice-Airport-to-Fusina-Port/d522-5567813P16?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -123,7 +125,7 @@ _Water Transfers_
 
 From **$164**
 
-[Book Now →](https://www.viator.com/tours/Venice/Venice-Marco-Polo-Airport-Private-Transfer-to-Hotel-by-Car-and-Boat/d522-5550636P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Venice/Venice-Marco-Polo-Airport-Private-Transfer-to-Hotel-by-Car-and-Boat/d522-5550636P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -135,7 +137,7 @@ _Airport & Hotel Transfers_
 
 From **$58**
 
-[Book Now →](https://www.viator.com/tours/Venice/Venice-Marco-Polo-Airport-to-and-from-Mestre-city/d522-5627541P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Venice/Venice-Marco-Polo-Airport-to-and-from-Mestre-city/d522-5627541P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -147,7 +149,7 @@ _Jet Boat Rentals_
 
 From **$44**
 
-[Book Now →](https://www.viator.com/tours/Venice/Private-Visit-to-Murano-Glass-Factory-Master-Glassmaker-Unique-Pieces/d522-409571P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Venice/Private-Visit-to-Murano-Glass-Factory-Master-Glassmaker-Unique-Pieces/d522-409571P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

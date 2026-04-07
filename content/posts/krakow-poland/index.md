@@ -119,11 +119,13 @@ Krakow's culinary scene is a delightful mix of traditional Polish cuisine and mo
 
 For dining, you can choose between street food vendors, casual bistros, and fine dining establishments. Street food is a great way to sample local flavors on a budget, while restaurants offer a more extensive menu and a sit-down experience. 
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Krakow on Viator →](https://www.viator.com/searchResults/all?text=Krakow%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Queen Best Hits Candlelight Concert in Krakow at Chopin Gallery](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a6/38/86/caption.jpg)](https://www.viator.com/tours/Krakow/Queen-Best-Hits-Candlelight-Concert-in-Krakow-at-Chopin-Gallery/d529-5602787P7?pid=P00295226&mcid=42383&medium=link)
 
@@ -133,7 +135,7 @@ _Classical Concerts_
 
 From **$22**
 
-[Book Now →](https://www.viator.com/tours/Krakow/Queen-Best-Hits-Candlelight-Concert-in-Krakow-at-Chopin-Gallery/d529-5602787P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Krakow/Queen-Best-Hits-Candlelight-Concert-in-Krakow-at-Chopin-Gallery/d529-5602787P7?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -145,7 +147,7 @@ _Nature and Wildlife Tours_
 
 From **$118**
 
-[Book Now →](https://www.viator.com/tours/Krakow/Zakopane-Horse-Riding-and-Thermal-Baths-full-day-from-Krakow/d529-483553P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Krakow/Zakopane-Horse-Riding-and-Thermal-Baths-full-day-from-Krakow/d529-483553P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -157,7 +159,7 @@ _Private and Luxury_
 
 From **$72**
 
-[Book Now →](https://www.viator.com/tours/Krakow/From-Krakow-Wieliczka-Salt-Mine-Guided-Tour-with-Hotel-Transfers/d529-312906P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Krakow/From-Krakow-Wieliczka-Salt-Mine-Guided-Tour-with-Hotel-Transfers/d529-312906P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -169,7 +171,7 @@ _Day Trips_
 
 From **$31**
 
-[Book Now →](https://www.viator.com/tours/Krakow/Auschwitz-Birkenau-Guided-TourSkip-The-LinePickUpGuide-ENG/d529-68782P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Krakow/Auschwitz-Birkenau-Guided-TourSkip-The-LinePickUpGuide-ENG/d529-68782P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -181,7 +183,7 @@ _Day Trips_
 
 From **$32**
 
-[Book Now →](https://www.viator.com/tours/Krakow/Auschwitz-Birkenau-Guided-Shared-Tour-from-Krakow/d529-52573P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Krakow/Auschwitz-Birkenau-Guided-Shared-Tour-from-Krakow/d529-52573P10?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

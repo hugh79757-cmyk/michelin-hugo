@@ -101,15 +101,17 @@ For a more upscale dining experience, consider visiting one of the city's fine r
 
 As you explore the city, be sure to stop by local markets or food festivals, where you can sample a variety of dishes and meet local artisans. These events provide a wonderful opportunity to engage with the community and discover the flavors that make Ghent unique.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Ghent on Viator →](https://www.viator.com/searchResults/all?text=Ghent%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 Looking for tours and activities in **Ghent**? Browse hundreds of experiences — from city walks and food tours to day trips and adventure sports.
 
-[🎟️ See All Ghent Tours on Viator →](https://www.viator.com/searchResults/all?text=Ghent&pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[🎟️ See All Ghent Tours on Viator →](https://www.viator.com/searchResults/all?text=Ghent&pid=P00295226&mcid=42383&medium=link)
 
 </div>
 

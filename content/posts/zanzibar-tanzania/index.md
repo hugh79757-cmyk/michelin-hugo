@@ -117,15 +117,24 @@ Zanzibar’s culinary scene is a delightful reflection of its cultural diversity
 
 For dining experiences, you have the option of savoring street food for a budget-friendly meal or enjoying a sit-down dinner at local restaurants that offer a more traditional ambiance.
 
-
-
 <div class="etap-product-cards">
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
-## Top Tours & Activities
+[🍜 Browse Food Tours in Zanzibar on Viator →](https://www.viator.com/searchResults/all?text=Zanzibar%20food%20tour&pid=P00295226&mcid=42383&medium=link)
 
-Looking for tours and activities in **Zanzibar Tanzania**? Browse hundreds of experiences — from city walks and food tours to day trips and adventure sports.
+---
 
-[🎟️ See All Zanzibar Tanzania Tours on Viator →](https://www.viator.com/searchResults/all?text=Zanzibar%20Tanzania&pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[![Full Day Holiday Package (Prison Island-Stone Town-Spice farm)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/08/d4/fe/e5.jpg)](https://www.viator.com/tours/Zanzibar-City/Full-Day-Holiday-Package-Prison-Island-Stone-Town-Spice-farm/d24350-189371P9)
+
+**[Full Day Holiday Package (Prison Island-Stone Town-Spice farm)](https://www.viator.com/tours/Zanzibar-City/Full-Day-Holiday-Package-Prison-Island-Stone-Town-Spice-farm/d24350-189371P9)** <span class="badge">-5%</span>
+
+_Day Trips_
+
+From **$133**
+
+[Book Now](https://www.viator.com/tours/Zanzibar-City/Full-Day-Holiday-Package-Prison-Island-Stone-Town-Spice-farm/d24350-189371P9)
+
+---
 
 </div>
 

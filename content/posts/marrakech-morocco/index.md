@@ -105,11 +105,13 @@ Marrakech is a food lover's paradise, offering a wide array of flavors and culin
 
 When it comes to dining, you can choose between street food stalls in Jemaa el-Fna for an authentic experience or dine at local restaurants for a more comfortable setting. Street food is generally safe to eat, but it’s always best to choose stalls with high turnover and fresh ingredients.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Marrakech on Viator →](https://www.viator.com/searchResults/all?text=Marrakech%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Marrakech: Waterfalls & Desert Agafay & Atlas Mountains & Camel](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/9e/11/83.jpg)](https://www.viator.com/tours/Marrakech/Marrakech-Waterfalls-and-Desert-Agafay-and-Atlas-Mountains-and-Camel/d5408-197963P1?pid=P00295226&mcid=42383&medium=link)
 
@@ -117,9 +119,7 @@ When it comes to dining, you can choose between street food stalls in Jemaa el-F
 
 _Audio Guides_
 
-From **$8**
-
-[Book Now →](https://www.viator.com/tours/Marrakech/Marrakech-Waterfalls-and-Desert-Agafay-and-Atlas-Mountains-and-Camel/d5408-197963P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Marrakech/Marrakech-Waterfalls-and-Desert-Agafay-and-Atlas-Mountains-and-Camel/d5408-197963P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -129,9 +129,7 @@ From **$8**
 
 _Day Trips_
 
-From **$8**
-
-[Book Now →](https://www.viator.com/tours/Marrakech/Marrakech-Agafay-Desert-Quad-Bike-with-Lunch-and-Pool/d5408-36697P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Marrakech/Marrakech-Agafay-Desert-Quad-Bike-with-Lunch-and-Pool/d5408-36697P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -141,9 +139,7 @@ From **$8**
 
 _Half-day Tours_
 
-From **$7**
-
-[Book Now →](https://www.viator.com/tours/Marrakech/Atlas-Mountains-and-Berber-villages-and-Waterfalls-with-Camel-ride/d5408-197963P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Marrakech/Atlas-Mountains-and-Berber-villages-and-Waterfalls-with-Camel-ride/d5408-197963P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -155,7 +151,7 @@ _Extreme Sports_
 
 From **$26**
 
-[Book Now →](https://www.viator.com/tours/Marrakech/Marrakech-Agafay-Desert-Quad-Biking-and-Camel-RIDE-and-Dinner-and-Show/d5408-5530176P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Marrakech/Marrakech-Agafay-Desert-Quad-Biking-and-Camel-RIDE-and-Dinner-and-Show/d5408-5530176P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -165,9 +161,7 @@ From **$26**
 
 _Day Trips_
 
-From **$9**
-
-[Book Now →](https://www.viator.com/tours/Marrakech/Atlas-Mountains-Full-Day-Tour-3-Valleys-Waterfalls-and-Lunch/d5408-133056P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Marrakech/Atlas-Mountains-Full-Day-Tour-3-Valleys-Waterfalls-and-Lunch/d5408-133056P13?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

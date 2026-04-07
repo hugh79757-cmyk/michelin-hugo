@@ -109,11 +109,13 @@ The Amalfi Coast is a culinary paradise, boasting fresh seafood, homemade pasta,
 
 Restaurants can range from casual trattorias to upscale dining establishments. For a true local experience, opt for family-run eateries where the atmosphere is warm, and the food is authentic.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Amalfi Coast on Viator →](https://www.viator.com/searchResults/all?text=Amalfi%20Coast%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Amalfi Private Tour to Ravello and Maiori and Minori DA Amalfi](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/23/7a/b9.jpg)](https://www.viator.com/tours/Amalfi/Amalfi-Private-Tour-to-Ravello-and-Maiori-and-Minori-DA-Amalfi/d33601-337005P16?pid=P00295226&mcid=42383&medium=link)
 
@@ -123,7 +125,7 @@ _Day Trips_
 
 From **$639**
 
-[Book Now →](https://www.viator.com/tours/Amalfi/Amalfi-Private-Tour-to-Ravello-and-Maiori-and-Minori-DA-Amalfi/d33601-337005P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Amalfi/Amalfi-Private-Tour-to-Ravello-and-Maiori-and-Minori-DA-Amalfi/d33601-337005P16?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -135,7 +137,7 @@ _Port Transfers_
 
 From **$149**
 
-[Book Now →](https://www.viator.com/tours/Amalfi/Naples-to-Amalfi-Coast-direct-transfer-or-vice-versa/d33601-137436P39?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Amalfi/Naples-to-Amalfi-Coast-direct-transfer-or-vice-versa/d33601-137436P39?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -147,7 +149,7 @@ _Day Trips_
 
 From **$169**
 
-[Book Now →](https://www.viator.com/tours/Amalfi/Pompeii-Small-Group-Tour-from-Amalfi-Coast-with-an-Archaeologist/d33601-216970P42?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Amalfi/Pompeii-Small-Group-Tour-from-Amalfi-Coast-with-an-Archaeologist/d33601-216970P42?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

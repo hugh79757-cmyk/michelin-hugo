@@ -119,11 +119,13 @@ Dubrovnik's culinary scene is a delightful mix of Mediterranean flavors, fresh s
 
 When dining out, you’ll find a range of options from casual street food stalls to upscale restaurants. For a more local experience, consider enjoying a meal at a konoba, a traditional Croatian tavern.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Dubrovnik on Viator →](https://www.viator.com/searchResults/all?text=Dubrovnik%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Dubrovnik Sunset Tour By Boat With Local](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/8c/8c/d8.jpg)](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Sunset-Tour-By-Boat-With-Local/d904-118286P10?pid=P00295226&mcid=42383&medium=link)
 
@@ -133,7 +135,7 @@ _Jet Boat Rentals_
 
 From **$239**
 
-[Book Now →](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Sunset-Tour-By-Boat-With-Local/d904-118286P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Sunset-Tour-By-Boat-With-Local/d904-118286P10?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -145,7 +147,7 @@ _Day Trips_
 
 From **$460**
 
-[Book Now →](https://www.viator.com/tours/Dubrovnik/Private-Authentic-Family-Lunch-at-Family-Home-From-Dubrovnik/d904-64364P31?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Dubrovnik/Private-Authentic-Family-Lunch-at-Family-Home-From-Dubrovnik/d904-64364P31?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -157,7 +159,7 @@ _Day Trips_
 
 From **$546**
 
-[Book Now →](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Medjugorje-Ston-and-Kravice-Waterfalls/d904-403969P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Medjugorje-Ston-and-Kravice-Waterfalls/d904-403969P12?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -169,7 +171,7 @@ _Day Trips_
 
 From **$546**
 
-[Book Now →](https://www.viator.com/tours/Dubrovnik/Three-Countries-Day-Trip-Trebinje-Perast-and-Kotor/d904-403969P14?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Dubrovnik/Three-Countries-Day-Trip-Trebinje-Perast-and-Kotor/d904-403969P14?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -181,7 +183,7 @@ _Day Trips_
 
 From **$546**
 
-[Book Now →](https://www.viator.com/tours/Dubrovnik/Private-Day-Trip-from-Dubrovnik-Ston-Mostar-and-Kravice/d904-403969P20?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Dubrovnik/Private-Day-Trip-from-Dubrovnik-Ston-Mostar-and-Kravice/d904-403969P20?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

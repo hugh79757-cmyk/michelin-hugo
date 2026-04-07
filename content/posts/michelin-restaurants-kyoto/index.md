@@ -175,15 +175,17 @@ Reservations are highly recommended for Michelin-starred restaurants in Kyoto, a
 In conclusion, Kyoto's Michelin dining scene is a testament to the city's rich culinary heritage and innovative spirit. Whether you're indulging in the elegance of a three-star meal or savoring the flavors of a one-star gem, each dining experience promises to be memorable. With its diverse range of cuisines and commitment to quality, Kyoto is a destination that should be on every food lover's bucket list.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Kyoto on Viator →](https://www.viator.com/searchResults/all?text=Kyoto%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Mizai](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/mizai)**
 
 _3 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/mizai)
+[View on Michelin Guide →](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/mizai)
 
 ---
 
@@ -191,9 +193,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/gion-sasaki)
+[View on Michelin Guide →](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/gion-sasaki)
 
 ---
 
@@ -201,9 +201,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/isshisoden-nakamura)
+[View on Michelin Guide →](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/isshisoden-nakamura)
 
 ---
 
@@ -211,9 +209,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/hyotei)
+[View on Michelin Guide →](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/hyotei)
 
 ---
 
@@ -221,9 +217,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/kikunoi-honten)
+[View on Michelin Guide →](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/kikunoi-honten)
 
 ---
 
@@ -231,9 +225,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/yusokuryori-mankamero)
+[View on Michelin Guide →](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/yusokuryori-mankamero)
 
 ---
 
@@ -241,9 +233,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/sanso-kyoyamato)
+[View on Michelin Guide →](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/sanso-kyoyamato)
 
 ---
 
@@ -251,9 +241,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/ogata)
+[View on Michelin Guide →](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/ogata)
 
 ---
 

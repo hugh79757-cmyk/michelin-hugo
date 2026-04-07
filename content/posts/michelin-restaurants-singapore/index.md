@@ -197,15 +197,17 @@ When dining at Michelin-rated establishments, consider the following tips:
 With its rich culinary landscape and diverse Michelin-rated options, Singapore is a haven for food lovers. Whether you’re indulging in street food or savoring a multi-course meal at a three-star restaurant, the city promises an unforgettable dining experience that reflects its vibrant culture and culinary innovation.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Singapore on Viator →](https://www.viator.com/searchResults/all?text=Singapore%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Les Amis](https://guide.michelin.com/en/singapore-region/singapore/restaurant/les-amis)**
 
 _3 Stars / French_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/singapore-region/singapore/restaurant/les-amis)
+[View on Michelin Guide →](https://guide.michelin.com/en/singapore-region/singapore/restaurant/les-amis)
 
 ---
 
@@ -213,9 +215,7 @@ From ** $$$$**
 
 _3 Stars / French Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/singapore-region/singapore/restaurant/odette)
+[View on Michelin Guide →](https://guide.michelin.com/en/singapore-region/singapore/restaurant/odette)
 
 ---
 
@@ -223,9 +223,7 @@ From ** $$$$**
 
 _3 Stars / European Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/singapore-region/singapore/restaurant/zen)
+[View on Michelin Guide →](https://guide.michelin.com/en/singapore-region/singapore/restaurant/zen)
 
 ---
 
@@ -233,9 +231,7 @@ From ** $$$$**
 
 _2 Stars / Innovative_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/singapore-region/singapore/restaurant/cloudstreet)
+[View on Michelin Guide →](https://guide.michelin.com/en/singapore-region/singapore/restaurant/cloudstreet)
 
 ---
 
@@ -243,9 +239,7 @@ From ** $$$$**
 
 _2 Stars / Sushi_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/singapore-region/singapore/restaurant/sushi-sakuta)
+[View on Michelin Guide →](https://guide.michelin.com/en/singapore-region/singapore/restaurant/sushi-sakuta)
 
 ---
 
@@ -253,9 +247,7 @@ From ** $$$$**
 
 _2 Stars / Innovative_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/singapore-region/singapore/restaurant/thevar)
+[View on Michelin Guide →](https://guide.michelin.com/en/singapore-region/singapore/restaurant/thevar)
 
 ---
 
@@ -263,9 +255,7 @@ From ** $$$$**
 
 _2 Stars / British Contemporary_
 
-From ** $$$**
-
-[Book Now](https://guide.michelin.com/en/singapore-region/singapore/restaurant/jaan-by-kirk-westaway)
+[View on Michelin Guide →](https://guide.michelin.com/en/singapore-region/singapore/restaurant/jaan-by-kirk-westaway)
 
 ---
 
@@ -273,9 +263,7 @@ From ** $$$**
 
 _2 Stars / French Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/singapore-region/singapore/restaurant/saint-pierre)
+[View on Michelin Guide →](https://guide.michelin.com/en/singapore-region/singapore/restaurant/saint-pierre)
 
 ---
 

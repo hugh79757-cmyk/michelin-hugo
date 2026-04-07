@@ -97,15 +97,17 @@ When dining at these establishments, be prepared for a range of dining experienc
  Taipei's Michelin dining scene is a reflection of the city's culinary heritage and its embrace of innovation. With a rich array of options from three-star excellence to one-star gems, the city invites food lovers to explore its diverse and flavorful offerings. Whether you are a local or a visitor, Taipei promises a dining experience that is both enriching and satisfying.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Taipei on Viator →](https://www.viator.com/searchResults/all?text=Taipei%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Le Palais](https://guide.michelin.com/en/taipei-region/taipei/restaurant/le-palais)**
 
 _3 Stars / Cantonese_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/taipei-region/taipei/restaurant/le-palais)
+[View on Michelin Guide →](https://guide.michelin.com/en/taipei-region/taipei/restaurant/le-palais)
 
 ---
 
@@ -113,9 +115,7 @@ From ** $$$$**
 
 _3 Stars / Taiwanese contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/taipei-region/taipei/restaurant/tairroir)
+[View on Michelin Guide →](https://guide.michelin.com/en/taipei-region/taipei/restaurant/tairroir)
 
 ---
 
@@ -123,9 +123,7 @@ From ** $$$$**
 
 _2 Stars / Japanese Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/taipei-region/taipei/restaurant/eika)
+[View on Michelin Guide →](https://guide.michelin.com/en/taipei-region/taipei/restaurant/eika)
 
 ---
 
@@ -133,9 +131,7 @@ From ** $$$$**
 
 _2 Stars / French Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/taipei-region/taipei/restaurant/a)
+[View on Michelin Guide →](https://guide.michelin.com/en/taipei-region/taipei/restaurant/a)
 
 ---
 
@@ -143,9 +139,7 @@ From ** $$$$**
 
 _2 Stars / Japanese_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/taipei-region/taipei/restaurant/yu-kapo-1198592)
+[View on Michelin Guide →](https://guide.michelin.com/en/taipei-region/taipei/restaurant/yu-kapo-1198592)
 
 ---
 
@@ -153,9 +147,7 @@ From ** $$$$**
 
 _2 Stars / Asian Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/taipei-region/taipei/restaurant/logy)
+[View on Michelin Guide →](https://guide.michelin.com/en/taipei-region/taipei/restaurant/logy)
 
 ---
 
@@ -163,9 +155,7 @@ From ** $$$$**
 
 _2 Stars / Japanese Tempura_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/taipei-region/taipei/restaurant/mudan)
+[View on Michelin Guide →](https://guide.michelin.com/en/taipei-region/taipei/restaurant/mudan)
 
 ---
 
@@ -173,9 +163,7 @@ From ** $$$$**
 
 _2 Stars / French Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/taipei-region/taipei/restaurant/l-atelier-de-joel-robuchon550759)
+[View on Michelin Guide →](https://guide.michelin.com/en/taipei-region/taipei/restaurant/l-atelier-de-joel-robuchon550759)
 
 ---
 

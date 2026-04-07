@@ -115,11 +115,13 @@ Fez is a food lover's paradise, offering a blend of traditional Moroccan dishes 
 
 For dining, you can choose from casual street food vendors to more upscale restaurants. The medina is filled with small eateries where you can savor authentic Moroccan flavors, while in Ville Nouvelle, international cuisine and fine dining options abound.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Fez on Viator →](https://www.viator.com/searchResults/all?text=Fez%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Half day Fes Walking Tour in the Medina with a Local Guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/eb/72/74.jpg)](https://www.viator.com/tours/Fez/Half-day-Fes-Walking-Tour-in-the-Medina-with-a-Local-Guide/d22151-133516P21?pid=P00295226&mcid=42383&medium=link)
 
@@ -129,7 +131,7 @@ _4WD Tours_
 
 From **$20**
 
-[Book Now →](https://www.viator.com/tours/Fez/Half-day-Fes-Walking-Tour-in-the-Medina-with-a-Local-Guide/d22151-133516P21?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Fez/Half-day-Fes-Walking-Tour-in-the-Medina-with-a-Local-Guide/d22151-133516P21?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -141,7 +143,7 @@ _Art Tours_
 
 From **$27**
 
-[Book Now →](https://www.viator.com/tours/Fez/Fez-Guided-Tour-of-Artisans-and-Handicrafts-Full-Day-Private-Tour/d22151-133516P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Fez/Fez-Guided-Tour-of-Artisans-and-Handicrafts-Full-Day-Private-Tour/d22151-133516P6?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -153,7 +155,7 @@ _City Tours_
 
 From **$21**
 
-[Book Now →](https://www.viator.com/tours/Fez/Private-Fes-Ramparts-Tour-Panoramic-Views-and-City-Gates/d22151-133516P45?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Fez/Private-Fes-Ramparts-Tour-Panoramic-Views-and-City-Gates/d22151-133516P45?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -165,7 +167,7 @@ _City Tours_
 
 From **$17**
 
-[Book Now →](https://www.viator.com/tours/Fez/FES-Half-Day-Luxury-Private-Tour-in-Fes-with-a-Local-Guide/d22151-133516P27?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Fez/FES-Half-Day-Luxury-Private-Tour-in-Fes-with-a-Local-Guide/d22151-133516P27?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -177,7 +179,7 @@ _Ports of Call Tours_
 
 From **$31**
 
-[Book Now →](https://www.viator.com/tours/Fez/Mosaic-Workshop-and-Sightseeing-Tour-Car/d22151-207313P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Fez/Mosaic-Workshop-and-Sightseeing-Tour-Car/d22151-207313P10?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

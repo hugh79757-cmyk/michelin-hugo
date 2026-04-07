@@ -111,11 +111,13 @@ Colombian cuisine is rich and diverse, reflecting the country’s varied regions
 
 When dining out, you can choose between street food stalls for budget-friendly meals or sit-down restaurants for a more upscale experience. Local eateries often serve authentic dishes at reasonable prices, while international cuisine can be found in more touristy areas.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Bogota on Viator →](https://www.viator.com/searchResults/all?text=Bogota%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Bogota Tour, Monserrate, Museums and Local Art with Transportation](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/4c/d3/ce.jpg)](https://www.viator.com/tours/Bogot/Bogota-Tour-Monserrate-Museums-and-Local-Art-with-Transportation/d4560-5553710P1?pid=P00295226&mcid=42383&medium=link)
 
@@ -125,7 +127,7 @@ _City Tours_
 
 From **$76**
 
-[Book Now →](https://www.viator.com/tours/Bogot/Bogota-Tour-Monserrate-Museums-and-Local-Art-with-Transportation/d4560-5553710P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Bogot/Bogota-Tour-Monserrate-Museums-and-Local-Art-with-Transportation/d4560-5553710P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

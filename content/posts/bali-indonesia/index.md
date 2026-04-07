@@ -117,11 +117,13 @@ Bali’s culinary scene is a delightful fusion of flavors, influenced by traditi
 
 When it comes to dining, you’ll find a mix of street food vendors and upscale restaurants. For an authentic experience, try local warungs (small eateries) where you can enjoy delicious meals at reasonable prices. Don’t forget to sample some street food while exploring the markets, as it’s often fresh and bursting with flavor.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Bali on Viator →](https://www.viator.com/searchResults/all?text=Bali%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Explore South Coast Rethymno - mini van safari with Pic-Nic](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b6/ca/b7/caption.jpg)](https://www.viator.com/tours/Bali/Explore-South-Coast-Rethymno-mini-van-safari-with-Pic-Nic/d50944-5579172P9?pid=P00295226&mcid=42383&medium=link)
 
@@ -131,7 +133,7 @@ _Day Trips_
 
 From **$93**
 
-[Book Now →](https://www.viator.com/tours/Bali/Explore-South-Coast-Rethymno-mini-van-safari-with-Pic-Nic/d50944-5579172P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Bali/Explore-South-Coast-Rethymno-mini-van-safari-with-Pic-Nic/d50944-5579172P9?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -143,7 +145,7 @@ _Day Trips_
 
 From **$550**
 
-[Book Now →](https://www.viator.com/tours/Bali/From-Rethymno-Elafonisi-Private-Tour-and-Pic-Nic/d50944-5579172P11?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Bali/From-Rethymno-Elafonisi-Private-Tour-and-Pic-Nic/d50944-5579172P11?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

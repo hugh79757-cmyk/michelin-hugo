@@ -103,11 +103,13 @@ Jordanian cuisine is a delightful blend of Mediterranean and Middle Eastern flav
 
 Local dining options range from street food stalls to more formal restaurants in Wadi Musa. While street food can be an adventurous choice, dining in local restaurants offers a chance to experience Jordanian hospitality.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Petra on Viator →](https://www.viator.com/searchResults/all?text=Petra%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Mallorca Scenic Villages Tour with Traditional Lunch](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/3c/a6/ce.jpg)](https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link)
 
@@ -117,7 +119,7 @@ _Full-day Tours_
 
 From **$94**
 
-[Book Now →](https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

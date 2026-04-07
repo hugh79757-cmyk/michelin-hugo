@@ -100,11 +100,13 @@ Street food is an integral part of the dining experience in Ubud. Strolling thro
 
 For a more upscale dining experience, Ubud boasts several restaurants that focus on organic and farm-to-table concepts. Many establishments source their ingredients from local farms, emphasizing fresh produce and sustainable practices. Dining here not only satisfies your palate but also supports the local economy and community.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Ubud on Viator →](https://www.viator.com/searchResults/all?text=Ubud%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Mount Batur Sunrise Hike, Breakfast & Hot Spring](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/d3/69/5b.jpg)](https://www.viator.com/tours/Ubud/Mount-Batur-Sunrise-Hike-Breakfast-and-Hot-Spring/d5467-157226P5?pid=P00295226&mcid=42383&medium=link)
 
@@ -114,7 +116,7 @@ _Climbing_
 
 From **$14**
 
-[Book Now →](https://www.viator.com/tours/Ubud/Mount-Batur-Sunrise-Hike-Breakfast-and-Hot-Spring/d5467-157226P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Ubud/Mount-Batur-Sunrise-Hike-Breakfast-and-Hot-Spring/d5467-157226P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -126,7 +128,7 @@ _Nature and Wildlife Tours_
 
 From **$24**
 
-[Book Now →](https://www.viator.com/tours/Ubud/Discover-East-Bali-Lempuyang-Temple-and-Waterfall-Tour/d5467-389904P20?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Ubud/Discover-East-Bali-Lempuyang-Temple-and-Waterfall-Tour/d5467-389904P20?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -138,7 +140,7 @@ _Full-day Tours_
 
 From **$48**
 
-[Book Now →](https://www.viator.com/tours/Ubud/Ubud-Waterfall-Circuit-5-Iconic-Jungle-Falls/d5467-5607287P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Ubud/Ubud-Waterfall-Circuit-5-Iconic-Jungle-Falls/d5467-5607287P12?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -150,7 +152,7 @@ _Full-day Tours_
 
 From **$54**
 
-[Book Now →](https://www.viator.com/tours/Ubud/Bali-Highlights-Shore-Excursion-from-Celukan-Bawang-Port/d5467-5607287P29?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Ubud/Bali-Highlights-Shore-Excursion-from-Celukan-Bawang-Port/d5467-5607287P29?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -162,7 +164,7 @@ _Nature and Wildlife Tours_
 
 From **$54**
 
-[Book Now →](https://www.viator.com/tours/Ubud/Tanah-Lot-Temple-and-Coastal-Sunset-Tour/d5467-5607287P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Ubud/Tanah-Lot-Temple-and-Coastal-Sunset-Tour/d5467-5607287P13?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

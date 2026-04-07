@@ -91,11 +91,13 @@ For those venturing into the street food scene, try **bajiya**, a savory pastry 
 
 If you prefer a sit-down meal, many resorts and hotels feature international cuisine with a focus on fresh seafood. These establishments often provide themed nights, showcasing various culinary styles while still incorporating local ingredients. For a special treat, consider a beach barbecue dinner, where fresh catches are grilled to perfection under the stars.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Maldives on Viator →](https://www.viator.com/searchResults/all?text=Maldives%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Self Guided Walking City Tour in Madrid](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/02/11/2a.jpg)](https://www.viator.com/tours/Madrid/Self-Guided-Walking-City-Tour-in-Madrid/d566-5520738P2?pid=P00295226&mcid=42383&medium=link)
 
@@ -103,9 +105,7 @@ If you prefer a sit-down meal, many resorts and hotels feature international cui
 
 _Audio Guides_
 
-From **$1**
-
-[Book Now →](https://www.viator.com/tours/Madrid/Self-Guided-Walking-City-Tour-in-Madrid/d566-5520738P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Madrid/Self-Guided-Walking-City-Tour-in-Madrid/d566-5520738P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -117,7 +117,7 @@ _Art Tours_
 
 From **$26**
 
-[Book Now →](https://www.viator.com/tours/Madrid/Madrid-Prado-Museum-tour-Private/d566-461351P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Madrid/Madrid-Prado-Museum-tour-Private/d566-461351P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -129,7 +129,7 @@ _Art Tours_
 
 From **$45**
 
-[Book Now →](https://www.viator.com/tours/Madrid/Lights-of-Bohemia-the-night-of-Max-Star-by-Madrid/d566-247547P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Madrid/Lights-of-Bohemia-the-night-of-Max-Star-by-Madrid/d566-247547P13?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -141,7 +141,7 @@ _Cooking Classes_
 
 From **$65**
 
-[Book Now →](https://www.viator.com/tours/Madrid/Madrid-Paella-Sangria-and-Churro-Making-Class-in-the-City-Center/d566-12438P49?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Madrid/Madrid-Paella-Sangria-and-Churro-Making-Class-in-the-City-Center/d566-12438P49?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -153,7 +153,7 @@ _Art Tours_
 
 From **$82**
 
-[Book Now →](https://www.viator.com/tours/Madrid/Learn-Art-Appreciation-Skills-At-Prado-Museum-Private-Tour/d566-5632563P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Madrid/Learn-Art-Appreciation-Skills-At-Prado-Museum-Private-Tour/d566-5632563P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

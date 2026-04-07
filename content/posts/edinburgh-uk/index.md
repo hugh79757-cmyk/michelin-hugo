@@ -99,11 +99,13 @@ For a more formal dining experience, seek out restaurants that focus on seasonal
 
 If you’re in the mood for something unique, try a **whisky tasting** at one of the many whisky bars in the city. Here, you can sample a variety of Scotch whiskies, learning about the different regions and distillation processes that make each one distinct. Pairing whisky with traditional Scottish cheeses can elevate the tasting experience even further.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Edinburgh on Viator →](https://www.viator.com/searchResults/all?text=Edinburgh%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Self Guided The Edinburgh Syndicate City Escape Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/eb/64/25.jpg)](https://www.viator.com/tours/Edinburgh/Self-Guided-The-Edinburgh-Syndicate-City-Escape-Game/d739-30066P567?pid=P00295226&mcid=42383&medium=link)
 
@@ -113,7 +115,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Edinburgh/Self-Guided-The-Edinburgh-Syndicate-City-Escape-Game/d739-30066P567?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Edinburgh/Self-Guided-The-Edinburgh-Syndicate-City-Escape-Game/d739-30066P567?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -125,7 +127,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Edinburgh/Edinburgh-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d739-30066P286?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Edinburgh/Edinburgh-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d739-30066P286?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -137,7 +139,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Edinburgh/Secrets-of-Edinburgh-Self-Guided-Exploration-Game/d739-30066P564?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Edinburgh/Secrets-of-Edinburgh-Self-Guided-Exploration-Game/d739-30066P564?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -149,7 +151,7 @@ _Day Trips_
 
 From **$81**
 
-[Book Now →](https://www.viator.com/tours/Edinburgh/Coastal-Kingdoms-Day-Tour-Lindisfarne-and-Bamburgh-Castle/d739-5638360P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Edinburgh/Coastal-Kingdoms-Day-Tour-Lindisfarne-and-Bamburgh-Castle/d739-5638360P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -161,7 +163,7 @@ _Day Trips_
 
 From **$81**
 
-[Book Now →](https://www.viator.com/tours/Edinburgh/Highland-Gems-Dunkeld-The-Hermitage-and-Blair-Atholl-Castle/d739-5638360P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Edinburgh/Highland-Gems-Dunkeld-The-Hermitage-and-Blair-Atholl-Castle/d739-5638360P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

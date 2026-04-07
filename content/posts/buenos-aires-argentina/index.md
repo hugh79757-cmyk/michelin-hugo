@@ -108,11 +108,13 @@ Buenos Aires is a food lover's paradise, offering a diverse array of culinary de
 
 For dining, explore local parrillas (steakhouses) for an authentic asado experience. For a more upscale meal, try one of the many fine dining establishments that showcase Argentine cuisine with a modern twist. Don't forget to check out street vendors for delicious snacks on the go.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Buenos Aires on Viator →](https://www.viator.com/searchResults/all?text=Buenos%20Aires%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Transfer Van 6 pax Airport Pistarini Buenos Aires to Hotel Port](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a8/26/1d/caption.jpg)](https://www.viator.com/tours/Buenos-Aires/Transfer-Van-6-pax-Airport-Pistarini-Buenos-Aires-to-Hotel-Port/d901-300145P7?pid=P00295226&mcid=42383&medium=link)
 
@@ -122,7 +124,7 @@ _Port Transfers_
 
 From **$136**
 
-[Book Now →](https://www.viator.com/tours/Buenos-Aires/Transfer-Van-6-pax-Airport-Pistarini-Buenos-Aires-to-Hotel-Port/d901-300145P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Buenos-Aires/Transfer-Van-6-pax-Airport-Pistarini-Buenos-Aires-to-Hotel-Port/d901-300145P7?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -134,7 +136,7 @@ _Port Transfers_
 
 From **$56**
 
-[Book Now →](https://www.viator.com/tours/Buenos-Aires/Private-Transfer-from-Ezeiza-EZE-Airport-to-Buenos-Aires/d901-5645732P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Buenos-Aires/Private-Transfer-from-Ezeiza-EZE-Airport-to-Buenos-Aires/d901-5645732P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -146,7 +148,7 @@ _Private and Luxury_
 
 From **$150**
 
-[Book Now →](https://www.viator.com/tours/Buenos-Aires/Private-Buenos-Aires-City-Tour-with-Local-Guide-and-Hotel-Pickup/d901-433863P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Buenos-Aires/Private-Buenos-Aires-City-Tour-with-Local-Guide-and-Hotel-Pickup/d901-433863P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -158,7 +160,7 @@ _Port Transfers_
 
 From **$32**
 
-[Book Now →](https://www.viator.com/tours/Buenos-Aires/Private-Transfer-from-Buenos-Aires-to-Buenos-Aires-Cruise-Port/d901-435811P11?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Buenos-Aires/Private-Transfer-from-Buenos-Aires-to-Buenos-Aires-Cruise-Port/d901-435811P11?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -170,7 +172,7 @@ _City Tours_
 
 From **$57**
 
-[Book Now →](https://www.viator.com/tours/Buenos-Aires/Walk-through-Buenos-Aires-Premium-more-Navigation-City-Postcards/d901-206912P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Buenos-Aires/Walk-through-Buenos-Aires-Premium-more-Navigation-City-Postcards/d901-206912P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

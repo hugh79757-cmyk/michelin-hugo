@@ -115,11 +115,13 @@ Osaka is a food lover’s dream, with a plethora of local dishes that you simply
 
 - **Street Food vs. Restaurants**: While Osaka has many fantastic restaurants, don’t miss the chance to explore its street food scene. Small stalls and food markets are where you’ll find some of the best local flavors. Dotonbori and Kuromon Ichiba Market are particularly famous for their street food offerings.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Osaka on Viator →](https://www.viator.com/searchResults/all?text=Osaka%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Osaka Cinematic Film experience Video + Photo (ONLY ONE BOOKING)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0c/32/c7.jpg)](https://www.viator.com/tours/Osaka/Osaka-Cinematic-Film-experience-Video-Photo-ONLY-ONE-BOOKING/d333-450799P1?pid=P00295226&mcid=42383&medium=link)
 
@@ -129,7 +131,7 @@ _Photography Tours_
 
 From **$90**
 
-[Book Now →](https://www.viator.com/tours/Osaka/Osaka-Cinematic-Film-experience-Video-Photo-ONLY-ONE-BOOKING/d333-450799P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Osaka/Osaka-Cinematic-Film-experience-Video-Photo-ONLY-ONE-BOOKING/d333-450799P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -141,7 +143,7 @@ _Day Trips_
 
 From **$52**
 
-[Book Now →](https://www.viator.com/tours/Osaka/Kyoto-Tango-Sea-Train-Amanohashidate-and-Ine-Tour-from-Osaka/d333-5616973P18?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Osaka/Kyoto-Tango-Sea-Train-Amanohashidate-and-Ine-Tour-from-Osaka/d333-5616973P18?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -153,7 +155,7 @@ _Full-day Tours_
 
 From **$100**
 
-[Book Now →](https://www.viator.com/tours/Namba/Kyoto-and-Nara-Small-Group-Tour-from-Osaka/d51459-5500660P22?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Namba/Kyoto-and-Nara-Small-Group-Tour-from-Osaka/d51459-5500660P22?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -165,7 +167,7 @@ _City Tours_
 
 From **$20**
 
-[Book Now →](https://www.viator.com/tours/Osaka/Shadows-of-Osaka-Legends-and-Folklore-Walking-Tour/d333-5633902P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Osaka/Shadows-of-Osaka-Legends-and-Folklore-Walking-Tour/d333-5633902P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -177,7 +179,7 @@ _Skip the line Tickets_
 
 From **$154**
 
-[Book Now →](https://www.viator.com/tours/Osaka/Osaka-Dotonbori-CHEVAL-Nightclub-VIP-Package-for-Foreign/d333-467011P42?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Osaka/Osaka-Dotonbori-CHEVAL-Nightclub-VIP-Package-for-Foreign/d333-467011P42?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

@@ -123,11 +123,13 @@ No visit to Bruges is complete without indulging in its culinary delights. The c
 
 For dining options, you can choose between casual street food vendors offering quick bites or sit-down restaurants for a more formal meal. Many eateries around the Markt and Burg squares provide a variety of options, from traditional Belgian cuisine to international fare.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Bruges on Viator →](https://www.viator.com/searchResults/all?text=Bruges%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Coffee Crawl in Barcelona](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/b3/d4/84.jpg)](https://www.viator.com/tours/Barcelona/Coffee-Crawl-in-Barcelona/d562-368686P6?pid=P00295226&mcid=42383&medium=link)
 
@@ -135,9 +137,7 @@ For dining options, you can choose between casual street food vendors offering q
 
 _Coffee & Tea Tours_
 
-From **$8**
-
-[Book Now →](https://www.viator.com/tours/Barcelona/Coffee-Crawl-in-Barcelona/d562-368686P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Barcelona/Coffee-Crawl-in-Barcelona/d562-368686P6?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -149,7 +149,7 @@ _Sailing_
 
 From **$40**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Shared-Sunset-Cruise-with-Unlimited-Cava/d562-5557269P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Barcelona/Shared-Sunset-Cruise-with-Unlimited-Cava/d562-5557269P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -161,7 +161,7 @@ _Private and Luxury_
 
 From **$19**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Timeless-Barcelona-Roman-Ruins-Gothic-Jewish-and-Born-Quarter/d562-327443P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Barcelona/Timeless-Barcelona-Roman-Ruins-Gothic-Jewish-and-Born-Quarter/d562-327443P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -173,7 +173,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Barcelona-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d562-30066P442?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Barcelona/Barcelona-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d562-30066P442?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -185,7 +185,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Self-Guided-Private-Exploration-Game-in-Barcelona/d562-30066P506?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Barcelona/Self-Guided-Private-Exploration-Game-in-Barcelona/d562-30066P506?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

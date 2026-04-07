@@ -108,15 +108,17 @@ When dining in Nara, take the time to appreciate the presentation of each dish, 
 Overall, Nara's Michelin dining scene offers a rich mix of flavors and experiences, making it a destination worth exploring for food enthusiasts and travelers alike. Whether you seek traditional Japanese cuisine or innovative interpretations, the city’s culinary offerings are sure to impress.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Nara on Viator →](https://www.viator.com/searchResults/all?text=Nara%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[akordu](https://guide.michelin.com/en/nara-region/nara/restaurant/akordu)**
 
 _2 Stars / Innovative_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/nara-region/nara/restaurant/akordu)
+[View on Michelin Guide →](https://guide.michelin.com/en/nara-region/nara/restaurant/akordu)
 
 ---
 
@@ -124,9 +126,7 @@ From ** ¥¥¥**
 
 _2 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/nara-region/nara/restaurant/oryori-hanagaki)
+[View on Michelin Guide →](https://guide.michelin.com/en/nara-region/nara/restaurant/oryori-hanagaki)
 
 ---
 
@@ -134,9 +134,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/nara-region/nara/restaurant/tsukumo)
+[View on Michelin Guide →](https://guide.michelin.com/en/nara-region/nara/restaurant/tsukumo)
 
 ---
 
@@ -144,9 +142,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Japanese_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/nara-region/nara/restaurant/nara-nikon)
+[View on Michelin Guide →](https://guide.michelin.com/en/nara-region/nara/restaurant/nara-nikon)
 
 ---
 
@@ -154,9 +150,7 @@ From ** ¥¥¥**
 
 _1 Star / French_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/nara-region/nara/restaurant/a-plus)
+[View on Michelin Guide →](https://guide.michelin.com/en/nara-region/nara/restaurant/a-plus)
 
 ---
 
@@ -164,9 +158,7 @@ From ** ¥¥¥**
 
 _1 Star / Japanese_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/nara-region/nara/restaurant/koikiryori-aji-manso)
+[View on Michelin Guide →](https://guide.michelin.com/en/nara-region/nara/restaurant/koikiryori-aji-manso)
 
 ---
 
@@ -174,9 +166,7 @@ From ** ¥¥¥**
 
 _1 Star / French_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/nara-region/nara/restaurant/la-trace)
+[View on Michelin Guide →](https://guide.michelin.com/en/nara-region/nara/restaurant/la-trace)
 
 ---
 
@@ -184,9 +174,7 @@ From ** ¥¥¥**
 
 _1 Star / Italian_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/nara-region/nara/restaurant/da-terra-1197086)
+[View on Michelin Guide →](https://guide.michelin.com/en/nara-region/nara/restaurant/da-terra-1197086)
 
 ---
 

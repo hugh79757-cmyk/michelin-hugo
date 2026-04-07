@@ -107,15 +107,17 @@ Reservations are highly recommended, especially for popular restaurants. Many es
 When dining in Hangzhou, be open to exploring various cuisines and styles. Each restaurant has its own unique ambiance and specialties, so taking the time to experience different venues can enhance your culinary journey. Whether you are indulging in a luxurious meal at a two-star restaurant or enjoying a casual bite at a Bib Gourmand spot, Hangzhou's dining scene offers a rich mix of flavors and experiences waiting to be discovered.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Hangzhou on Viator →](https://www.viator.com/searchResults/all?text=Hangzhou%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Ru Yuan](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/ru-yuan)**
 
 _2 Stars / Zhejiang_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/ru-yuan)
+[View on Michelin Guide →](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/ru-yuan)
 
 ---
 
@@ -123,9 +125,7 @@ From ** ¥¥¥¥**
 
 _1 Star / Innovative_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/sense-1216520)
+[View on Michelin Guide →](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/sense-1216520)
 
 ---
 
@@ -133,9 +133,7 @@ From ** ¥¥¥¥**
 
 _1 Star / Zhejiang_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/jie-xiang-lou)
+[View on Michelin Guide →](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/jie-xiang-lou)
 
 ---
 
@@ -143,9 +141,7 @@ From ** ¥¥¥**
 
 _1 Star / Ningbo_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/song-1217000)
+[View on Michelin Guide →](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/song-1217000)
 
 ---
 
@@ -153,9 +149,7 @@ From ** ¥¥¥**
 
 _1 Star / Chinese Contemporary_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/wild-yeast)
+[View on Michelin Guide →](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/wild-yeast)
 
 ---
 
@@ -163,9 +157,7 @@ From ** ¥¥¥¥**
 
 _1 Star / Zhejiang_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/hangzhou-house)
+[View on Michelin Guide →](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/hangzhou-house)
 
 ---
 
@@ -173,9 +165,7 @@ From ** ¥¥¥**
 
 _1 Star / French Contemporary_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/l-eclat-19)
+[View on Michelin Guide →](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/l-eclat-19)
 
 ---
 
@@ -183,9 +173,7 @@ From ** ¥¥¥¥**
 
 _1 Star / Sichuan_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/yu-zhi-lan-1217657)
+[View on Michelin Guide →](https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/yu-zhi-lan-1217657)
 
 ---
 

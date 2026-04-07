@@ -111,11 +111,13 @@ Palawan's culinary scene is a delightful mix of flavors and influences. The loca
 
 While street food is widely available and can be an adventure in itself, don't hesitate to try local restaurants for a more authentic dining experience. Many eateries offer a mix of traditional dishes and international cuisine, catering to all palates.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Palawan on Viator →](https://www.viator.com/searchResults/all?text=Palawan%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Puerto Princesa Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ee/9f/a2.jpg)](https://www.viator.com/tours/Palawan/Puerto-Princesa-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d25945-30066P326?pid=P00295226&mcid=42383&medium=link)
 
@@ -125,7 +127,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Palawan/Puerto-Princesa-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d25945-30066P326?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Palawan/Puerto-Princesa-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d25945-30066P326?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

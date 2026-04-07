@@ -196,15 +196,17 @@ Here are some tips for dining in Osaka:
 Osaka's Michelin dining scene is a treasure trove of culinary delights waiting to be explored. Whether you're indulging in the artistry of a three-star meal or savoring the flavors of a one-star gem, each dining experience promises to be a memorable journey through the city's rich gastronomic landscape.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Osaka on Viator →](https://www.viator.com/searchResults/all?text=Osaka%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[HAJIME](https://guide.michelin.com/en/osaka-region/osaka/restaurant/hajime)**
 
 _3 Stars / Innovative_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/osaka-region/osaka/restaurant/hajime)
+[View on Michelin Guide →](https://guide.michelin.com/en/osaka-region/osaka/restaurant/hajime)
 
 ---
 
@@ -212,9 +214,7 @@ From ** ¥¥¥¥**
 
 _3 Stars / Japanese_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/osaka-region/osaka/restaurant/taian)
+[View on Michelin Guide →](https://guide.michelin.com/en/osaka-region/osaka/restaurant/taian)
 
 ---
 
@@ -222,9 +222,7 @@ From ** ¥¥¥**
 
 _3 Stars / Japanese_
 
-From ** ¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/osaka-region/osaka/restaurant/kashiwaya-osaka-senriyama)
+[View on Michelin Guide →](https://guide.michelin.com/en/osaka-region/osaka/restaurant/kashiwaya-osaka-senriyama)
 
 ---
 
@@ -232,9 +230,7 @@ From ** ¥¥¥**
 
 _2 Stars / French, Contemporary_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/osaka-region/osaka/restaurant/la-cime)
+[View on Michelin Guide →](https://guide.michelin.com/en/osaka-region/osaka/restaurant/la-cime)
 
 ---
 
@@ -242,9 +238,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/osaka-region/osaka/restaurant/miyamoto)
+[View on Michelin Guide →](https://guide.michelin.com/en/osaka-region/osaka/restaurant/miyamoto)
 
 ---
 
@@ -252,9 +246,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Innovative_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/osaka-region/osaka/restaurant/fujiya-1935)
+[View on Michelin Guide →](https://guide.michelin.com/en/osaka-region/osaka/restaurant/fujiya-1935)
 
 ---
 
@@ -262,9 +254,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/osaka-region/osaka/restaurant/koryu)
+[View on Michelin Guide →](https://guide.michelin.com/en/osaka-region/osaka/restaurant/koryu)
 
 ---
 
@@ -272,9 +262,7 @@ From ** ¥¥¥¥**
 
 _2 Stars / Japanese_
 
-From ** ¥¥¥¥**
-
-[Book Now](https://guide.michelin.com/en/osaka-region/osaka/restaurant/yugen-1193266)
+[View on Michelin Guide →](https://guide.michelin.com/en/osaka-region/osaka/restaurant/yugen-1193266)
 
 ---
 

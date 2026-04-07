@@ -109,11 +109,13 @@ Queenstown’s culinary scene is as diverse as its landscape, offering everythin
 
 - **Street Food vs. Restaurants:** Queenstown has a variety of food trucks and casual eateries offering delicious street food. For a more upscale experience, look for restaurants that feature local ingredients and offer stunning views of the lake and mountains.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Queenstown on Viator →](https://www.viator.com/searchResults/all?text=Queenstown%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![E-Bike Adventures Through the Wineries in Gibbston](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/7a/32/b3.jpg)](https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link)
 
@@ -123,7 +125,7 @@ _Mountain Bike Tours_
 
 From **$59**
 
-[Book Now →](https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -135,7 +137,7 @@ _Private and Luxury_
 
 From **$126**
 
-[Book Now →](https://www.viator.com/tours/Queenstown/Queenstown-Classic-Wine-Tour-3-Winery-Visits-Cave-Tour-and-Cheese/d407-3663P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Queenstown/Queenstown-Classic-Wine-Tour-3-Winery-Visits-Cave-Tour-and-Cheese/d407-3663P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -147,7 +149,7 @@ _Day Trips_
 
 From **$889**
 
-[Book Now →](https://www.viator.com/tours/Queenstown/Mount-Cook-Scenic-Tour-for-6-with-Car-Included/d407-5634420P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Queenstown/Mount-Cook-Scenic-Tour-for-6-with-Car-Included/d407-5634420P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

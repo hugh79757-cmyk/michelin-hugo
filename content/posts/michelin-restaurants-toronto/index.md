@@ -113,15 +113,17 @@ Lastly, be prepared to enjoy a leisurely meal, as many of these dining experienc
  Toronto's Michelin dining scene is a testament to the city's diverse culinary landscape. Whether you seek the refined elegance of a one-star restaurant or the approachable charm of a Bib Gourmand, the city promises a rewarding dining experience for all.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Toronto on Viator →](https://www.viator.com/searchResults/all?text=Toronto%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Kappo Sato](https://guide.michelin.com/en/ontario/toronto/restaurant/kappo-sato)**
 
 _1 Star / Japanese, Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/ontario/toronto/restaurant/kappo-sato)
+[View on Michelin Guide →](https://guide.michelin.com/en/ontario/toronto/restaurant/kappo-sato)
 
 ---
 
@@ -129,9 +131,7 @@ From ** $$$$**
 
 _1 Star / Contemporary, French_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/ontario/toronto/restaurant/alo)
+[View on Michelin Guide →](https://guide.michelin.com/en/ontario/toronto/restaurant/alo)
 
 ---
 
@@ -139,9 +139,7 @@ From ** $$$$**
 
 _1 Star / Asian, Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/ontario/toronto/restaurant/akin-1212180)
+[View on Michelin Guide →](https://guide.michelin.com/en/ontario/toronto/restaurant/akin-1212180)
 
 ---
 
@@ -149,9 +147,7 @@ From ** $$$$**
 
 _1 Star / Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/ontario/toronto/restaurant/enigma-yorkville)
+[View on Michelin Guide →](https://guide.michelin.com/en/ontario/toronto/restaurant/enigma-yorkville)
 
 ---
 
@@ -159,9 +155,7 @@ From ** $$$$**
 
 _1 Star / Japanese_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/ontario/toronto/restaurant/sushi-masaki-saito)
+[View on Michelin Guide →](https://guide.michelin.com/en/ontario/toronto/restaurant/sushi-masaki-saito)
 
 ---
 
@@ -169,9 +163,7 @@ From ** $$$$**
 
 _1 Star / Japanese, Sushi_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/ontario/toronto/restaurant/shoushin)
+[View on Michelin Guide →](https://guide.michelin.com/en/ontario/toronto/restaurant/shoushin)
 
 ---
 
@@ -179,9 +171,7 @@ From ** $$$$**
 
 _1 Star / Italian, Contemporary_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/ontario/toronto/restaurant/danico)
+[View on Michelin Guide →](https://guide.michelin.com/en/ontario/toronto/restaurant/danico)
 
 ---
 
@@ -189,9 +179,7 @@ From ** $$$$**
 
 _1 Star / Mediterranean Cuisine_
 
-From ** $$$$**
-
-[Book Now](https://guide.michelin.com/en/ontario/toronto/restaurant/edulis)
+[View on Michelin Guide →](https://guide.michelin.com/en/ontario/toronto/restaurant/edulis)
 
 ---
 

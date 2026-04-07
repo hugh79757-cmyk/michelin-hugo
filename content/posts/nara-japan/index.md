@@ -99,11 +99,13 @@ Don’t overlook the opportunity to try **Nara's sake** as well. The city is kno
 
 For budget-conscious travelers, convenience stores are abundant and offer a variety of affordable meals, from rice balls to bento boxes. These quick options are perfect for a picnic in the park or a simple meal after a long day of exploring.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Nara on Viator →](https://www.viator.com/searchResults/all?text=Nara%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Nara: Yakushiji Tour – Toshodaiji or Sutra Copying Option](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/79/d6/c8/caption.jpg)](https://www.viator.com/tours/Nara/Nara-Yakushiji-Tour-Toshodaiji-or-Sutra-Copying-Option/d50510-174545P557?pid=P00295226&mcid=42383&medium=link)
 
@@ -113,7 +115,7 @@ _Private and Luxury_
 
 From **$61**
 
-[Book Now →](https://www.viator.com/tours/Nara/Nara-Yakushiji-Tour-Toshodaiji-or-Sutra-Copying-Option/d50510-174545P557?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Nara/Nara-Yakushiji-Tour-Toshodaiji-or-Sutra-Copying-Option/d50510-174545P557?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -125,7 +127,7 @@ _Private and Luxury_
 
 From **$112**
 
-[Book Now →](https://www.viator.com/tours/Nara/Private-3-Hour-UNESCO-Heritage-Sites-and-Deer-Park-Tour/d50510-174545P29?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Nara/Private-3-Hour-UNESCO-Heritage-Sites-and-Deer-Park-Tour/d50510-174545P29?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -137,7 +139,7 @@ _Cooking Classes_
 
 From **$56**
 
-[Book Now →](https://www.viator.com/tours/Nara/Nara-Authentic-Onigiri-Cooking-Class-and-Meal-in-a-Local-Home/d50510-5611016P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Nara/Nara-Authentic-Onigiri-Cooking-Class-and-Meal-in-a-Local-Home/d50510-5611016P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

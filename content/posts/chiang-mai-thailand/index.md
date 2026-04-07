@@ -99,11 +99,13 @@ Restaurants in Chiang Mai offer a range of dining experiences, from casual eater
 
 Don’t forget to explore the local coffee culture. Chiang Mai has a growing number of cafes that serve local brews, often made from beans sourced from nearby plantations. Enjoying a cup of coffee while people-watching in a cozy café can be a delightful way to spend an afternoon.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Chiang Mai on Viator →](https://www.viator.com/searchResults/all?text=Chiang%20Mai%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Doi Suthep, Wat Suandok, Wat Phalat + Monks chanting & Meditation](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/57/f5/01.jpg)](https://www.viator.com/tours/Chiang-Mai/Doi-Suthep-Wat-Suandok-Wat-Phalat-Monks-chanting-and-Meditation/d5267-226066P4?pid=P00295226&mcid=42383&medium=link)
 
@@ -111,7 +113,7 @@ Don’t forget to explore the local coffee culture. Chiang Mai has a growing num
 
 From **$39**
 
-[Book Now →](https://www.viator.com/tours/Chiang-Mai/Doi-Suthep-Wat-Suandok-Wat-Phalat-Monks-chanting-and-Meditation/d5267-226066P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Chiang-Mai/Doi-Suthep-Wat-Suandok-Wat-Phalat-Monks-chanting-and-Meditation/d5267-226066P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -123,7 +125,7 @@ _Private and Luxury_
 
 From **$97**
 
-[Book Now →](https://www.viator.com/tours/Chiang-Mai/4-Hours-Private-Walking-Temples-Tour/d5267-26152P56?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Chiang-Mai/4-Hours-Private-Walking-Temples-Tour/d5267-26152P56?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -135,7 +137,7 @@ _Cabaret_
 
 From **$21**
 
-[Book Now →](https://www.viator.com/tours/Chiang-Mai/Siam-Dragon-Cabaret-Show-Ticket-with-Transfer-in-Chiang-Mai/d5267-110534P1241?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Chiang-Mai/Siam-Dragon-Cabaret-Show-Ticket-with-Transfer-in-Chiang-Mai/d5267-110534P1241?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -147,7 +149,7 @@ _Cabaret_
 
 From **$25**
 
-[Book Now →](https://www.viator.com/tours/Chiang-Mai/Chiang-Mai-Siam-Dragon-Cabaret-Show-with-Hotel-Transfer/d5267-5567066P535?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Chiang-Mai/Chiang-Mai-Siam-Dragon-Cabaret-Show-with-Hotel-Transfer/d5267-5567066P535?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -159,7 +161,7 @@ _Day Trips_
 
 From **$65**
 
-[Book Now →](https://www.viator.com/tours/Chiang-Mai/Chiang-Mai-ATV-and-White-Water-Rafting-and-Trekking-to-Waterfall/d5267-486281P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Chiang-Mai/Chiang-Mai-ATV-and-White-Water-Rafting-and-Trekking-to-Waterfall/d5267-486281P10?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

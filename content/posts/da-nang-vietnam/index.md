@@ -99,11 +99,13 @@ Another popular dish is **Gio Lua**, a Vietnamese pork sausage that is often ser
 
 Finally, don’t miss out on trying **Vietnamese coffee**. The robust flavor and unique brewing method make it a delightful experience. Many cafes offer a range of coffee styles, from traditional drip coffee to iced versions, allowing you to enjoy this local favorite while taking a break from exploring.
 
-
-
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Da Nang on Viator →](https://www.viator.com/searchResults/all?text=Da%20Nang%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 [![Ba Na Hills & Golden Bridge: Private Return Transfer from Da Nang](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/07/7e/de/bb.jpg)](https://www.viator.com/tours/Da-Nang/Ba-Na-Hills-and-Golden-Bridge-Private-Return-Transfer-from-Da-Nang/d4680-137018P2?pid=P00295226&mcid=42383&medium=link)
 
@@ -113,7 +115,7 @@ _Bus Services_
 
 From **$32**
 
-[Book Now →](https://www.viator.com/tours/Da-Nang/Ba-Na-Hills-and-Golden-Bridge-Private-Return-Transfer-from-Da-Nang/d4680-137018P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Da-Nang/Ba-Na-Hills-and-Golden-Bridge-Private-Return-Transfer-from-Da-Nang/d4680-137018P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -125,7 +127,7 @@ _Private Drivers_
 
 From **$37**
 
-[Book Now →](https://www.viator.com/tours/Da-Nang/Da-Nang-Scenic-and-Sunset-Private-Journey/d4680-5645121P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Da-Nang/Da-Nang-Scenic-and-Sunset-Private-Journey/d4680-5645121P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -137,7 +139,7 @@ _Snorkeling_
 
 From **$69**
 
-[Book Now →](https://www.viator.com/tours/Da-Nang/Cham-Island-Double-Snorkeling-Adventure-from-Da-Nang/d4680-470375P27?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Da-Nang/Cham-Island-Double-Snorkeling-Adventure-from-Da-Nang/d4680-470375P27?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -149,7 +151,7 @@ _Private and Luxury_
 
 From **$41**
 
-[Book Now →](https://www.viator.com/tours/Da-Nang/Hoi-an-Coconut-Boat-and-Hoi-an-Ancient-TownOption-Marble-Mountain/d4680-428350P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Da-Nang/Hoi-an-Coconut-Boat-and-Hoi-an-Ancient-TownOption-Marble-Mountain/d4680-428350P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -161,7 +163,7 @@ _Scuba Diving_
 
 From **$90**
 
-[Book Now →](https://www.viator.com/tours/Da-Nang/Cham-Island-Fun-Dive-Escape-from-Danang/d4680-470375P26?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[View on Michelin Guide →](https://www.viator.com/tours/Da-Nang/Cham-Island-Fun-Dive-Escape-from-Danang/d4680-470375P26?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

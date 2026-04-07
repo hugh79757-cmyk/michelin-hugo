@@ -112,15 +112,17 @@ When dining at these acclaimed restaurants, consider the tasting menus, which of
 Additionally, dress codes may apply at some establishments, so it's advisable to check in advance to ensure a comfortable dining experience. Whether you're indulging in traditional Thai flavors or exploring innovative international cuisine, Bangkok's Michelin-rated restaurants promise a memorable dining experience that reflects the city's rich culinary landscape.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
+
+[🍜 Browse Food Tours in Bangkok on Viator →](https://www.viator.com/searchResults/all?text=Bangkok%20food%20tour&pid=P00295226&mcid=42383&medium=link)
+
+---
 
 **[Sorn](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sorn)**
 
 _3 Stars / Southern Thai_
 
-From ** ฿฿฿฿**
-
-[Book Now](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sorn)
+[View on Michelin Guide →](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/sorn)
 
 ---
 
@@ -128,9 +130,7 @@ From ** ฿฿฿฿**
 
 _3 Stars / German, Contemporary_
 
-From ** ฿฿฿฿**
-
-[Book Now](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/suhring)
+[View on Michelin Guide →](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/suhring)
 
 ---
 
@@ -138,9 +138,7 @@ From ** ฿฿฿฿**
 
 _2 Stars / French Contemporary_
 
-From ** ฿฿฿฿**
-
-[Book Now](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/chef-s-table1184372)
+[View on Michelin Guide →](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/chef-s-table1184372)
 
 ---
 
@@ -148,9 +146,7 @@ From ** ฿฿฿฿**
 
 _2 Stars / Indian, Contemporary_
 
-From ** ฿฿฿฿**
-
-[Book Now](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/gaa-1194845)
+[View on Michelin Guide →](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/gaa-1194845)
 
 ---
 
@@ -158,9 +154,7 @@ From ** ฿฿฿฿**
 
 _2 Stars / Thai contemporary_
 
-From ** ฿฿฿฿**
-
-[Book Now](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/baan-tepa)
+[View on Michelin Guide →](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/baan-tepa)
 
 ---
 
@@ -168,9 +162,7 @@ From ** ฿฿฿฿**
 
 _2 Stars / French Contemporary_
 
-From ** ฿฿฿฿**
-
-[Book Now](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/le-normandie)
+[View on Michelin Guide →](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/le-normandie)
 
 ---
 
@@ -178,9 +170,7 @@ From ** ฿฿฿฿**
 
 _2 Stars / Modern Cuisine_
 
-From ** ฿฿฿฿**
-
-[Book Now](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/cote-by-mauro-colagreco)
+[View on Michelin Guide →](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/cote-by-mauro-colagreco)
 
 ---
 
@@ -188,9 +178,7 @@ From ** ฿฿฿฿**
 
 _2 Stars / Thai contemporary_
 
-From ** ฿฿฿฿**
-
-[Book Now](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/r-haan)
+[View on Michelin Guide →](https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/r-haan)
 
 ---
 

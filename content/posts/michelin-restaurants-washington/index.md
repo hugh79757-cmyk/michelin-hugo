@@ -106,9 +106,7 @@ When dining at these acclaimed restaurants, consider the tasting menus, which of
  Washington's Michelin dining scene offers an array of experiences that cater to various tastes and budgets. From the two-star excellence to the Bib Gourmand spots, the city is a culinary hub that showcases both innovation and tradition. Whether you are a local or a visitor, exploring the diverse dining options in Washington promises to be a rewarding experience.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
->
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
+> **📌 Disclaimer**
 >
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

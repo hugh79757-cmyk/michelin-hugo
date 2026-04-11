@@ -1,0 +1,13 @@
+baseURL = "https://michelin.techpawz.com/"
+languageCode = "en"
+title = "michelin"
+theme = "blowfish"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

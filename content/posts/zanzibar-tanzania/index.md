@@ -126,7 +126,7 @@ For dining experiences, you have the option of savoring street food for a budget
 
 [![Full Day Holiday Package (Prison Island-Stone Town-Spice farm)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/08/d4/fe/e5.jpg)](https://www.viator.com/tours/Zanzibar-City/Full-Day-Holiday-Package-Prison-Island-Stone-Town-Spice-farm/d24350-189371P9)
 
-**[Full Day Holiday Package (Prison Island-Stone Town-Spice farm)](https://www.viator.com/tours/Zanzibar-City/Full-Day-Holiday-Package-Prison-Island-Stone-Town-Spice-farm/d24350-189371P9)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Zanzibar-City/Full-Day-Holiday-Package-Prison-Island-Stone-Town-Spice-farm/d24350-189371P9">Full Day Holiday Package (Prison Island-Stone Town-Spice farm)</a>** <span class="badge">-5%</span>
 
 _Day Trips_
 

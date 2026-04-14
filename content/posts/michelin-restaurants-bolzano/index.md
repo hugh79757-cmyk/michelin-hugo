@@ -111,7 +111,7 @@ For a seamless experience, consider checking the restaurant's menu online before
 
 [![St. Mark's Basilica Guided Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/87/b2/b3/caption.jpg)](https://www.viator.com/tours/Venice/St-Marks-Basilica-Guided-Tour/d522-62416P63?pid=P00295226&mcid=42383&medium=link)
 
-**[St. Mark's Basilica Guided Tour](https://www.viator.com/tours/Venice/St-Marks-Basilica-Guided-Tour/d522-62416P63?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Venice/St-Marks-Basilica-Guided-Tour/d522-62416P63?pid=P00295226&mcid=42383&medium=link">St. Mark's Basilica Guided Tour</a>** <span class="badge">-50%</span>
 
 _Private and Luxury_
 
@@ -123,7 +123,7 @@ From **$81**
 
 [![Murano, Burano, Torcello Tour by Classic Venetian Boat](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0f/99/07.jpg)](https://www.viator.com/tours/Venice/Murano-Burano-Torcello-Tour-by-Classic-Venetian-Boat/d522-6476P123?pid=P00295226&mcid=42383&medium=link)
 
-**[Murano, Burano, Torcello Tour by Classic Venetian Boat](https://www.viator.com/tours/Venice/Murano-Burano-Torcello-Tour-by-Classic-Venetian-Boat/d522-6476P123?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-28%</span>
+**<a href="https://www.viator.com/tours/Venice/Murano-Burano-Torcello-Tour-by-Classic-Venetian-Boat/d522-6476P123?pid=P00295226&mcid=42383&medium=link">Murano, Burano, Torcello Tour by Classic Venetian Boat</a>** <span class="badge">-28%</span>
 
 _Day Trips_
 
@@ -135,7 +135,7 @@ From **$93**
 
 [![Murano & Burano: Venice Lagoon Cruise on a Traditional Boat](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0f/fb/a5.jpg)](https://www.viator.com/tours/Venice/Murano-and-Burano-Venice-Lagoon-Cruise-on-a-Traditional-Boat/d522-6476P125?pid=P00295226&mcid=42383&medium=link)
 
-**[Murano & Burano: Venice Lagoon Cruise on a Traditional Boat](https://www.viator.com/tours/Venice/Murano-and-Burano-Venice-Lagoon-Cruise-on-a-Traditional-Boat/d522-6476P125?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-28%</span>
+**<a href="https://www.viator.com/tours/Venice/Murano-and-Burano-Venice-Lagoon-Cruise-on-a-Traditional-Boat/d522-6476P125?pid=P00295226&mcid=42383&medium=link">Murano & Burano: Venice Lagoon Cruise on a Traditional Boat</a>** <span class="badge">-28%</span>
 
 _Day Trips_
 
@@ -147,7 +147,7 @@ From **$58**
 
 [![Venice Self-Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Venice/Venice-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d522-30066P122?pid=P00295226&mcid=42383&medium=link)
 
-**[Venice Self-Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Venice/Venice-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d522-30066P122?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Venice/Venice-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d522-30066P122?pid=P00295226&mcid=42383&medium=link">Venice Self-Guided Sherlock Holmes Murder Mystery Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -159,7 +159,7 @@ From **$23**
 
 [![Venice Photoshoot](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ba/10/d4/caption.jpg)](https://www.viator.com/tours/Venice/Venice-Photoshoot/d522-5640599P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Venice Photoshoot](https://www.viator.com/tours/Venice/Venice-Photoshoot/d522-5640599P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Venice/Venice-Photoshoot/d522-5640599P5?pid=P00295226&mcid=42383&medium=link">Venice Photoshoot</a>** <span class="badge">-25%</span>
 
 _Photography Tours_
 

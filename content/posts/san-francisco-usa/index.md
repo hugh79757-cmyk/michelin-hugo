@@ -119,7 +119,7 @@ For street food, check out the food trucks in the SOMA neighborhood or visit the
 
 [![Muir Woods and Sausalito Small Group Tour From San Francisco](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/15/3c/1b.jpg)](https://www.viator.com/tours/San-Francisco/Muir-Woods-and-Sausalito-Small-Group-Tour-From-San-Francisco/d651-36001P16?pid=P00295226&mcid=42383&medium=link)
 
-**[Muir Woods and Sausalito Small Group Tour From San Francisco](https://www.viator.com/tours/San-Francisco/Muir-Woods-and-Sausalito-Small-Group-Tour-From-San-Francisco/d651-36001P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/San-Francisco/Muir-Woods-and-Sausalito-Small-Group-Tour-From-San-Francisco/d651-36001P16?pid=P00295226&mcid=42383&medium=link">Muir Woods and Sausalito Small Group Tour From San Francisco</a>** <span class="badge">-5%</span>
 
 _Day Trips_
 
@@ -131,7 +131,7 @@ From **$108**
 
 [![Airport Transfer: San Francisco to Airport SFO by Luxury SUV](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/6f/09/ac.jpg)](https://www.viator.com/tours/San-Francisco/Airport-Transfer-San-Francisco-to-Airport-SFO-by-Luxury-SUV/d651-85439P816?pid=P00295226&mcid=42383&medium=link)
 
-**[Airport Transfer: San Francisco to Airport SFO by Luxury SUV](https://www.viator.com/tours/San-Francisco/Airport-Transfer-San-Francisco-to-Airport-SFO-by-Luxury-SUV/d651-85439P816?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/San-Francisco/Airport-Transfer-San-Francisco-to-Airport-SFO-by-Luxury-SUV/d651-85439P816?pid=P00295226&mcid=42383&medium=link">Airport Transfer: San Francisco to Airport SFO by Luxury SUV</a>** <span class="badge">-5%</span>
 
 _Airport & Hotel Transfers_
 
@@ -143,7 +143,7 @@ From **$128**
 
 [![Departure Private Transfer: San Francisco to Airport SFO in Luxury Car](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/b7/5a/3a.jpg)](https://www.viator.com/tours/San-Francisco/Departure-Private-Transfer-San-Francisco-to-Airport-SFO-in-Luxury-Car/d651-85439P822?pid=P00295226&mcid=42383&medium=link)
 
-**[Departure Private Transfer: San Francisco to Airport SFO in Luxury Car](https://www.viator.com/tours/San-Francisco/Departure-Private-Transfer-San-Francisco-to-Airport-SFO-in-Luxury-Car/d651-85439P822?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/San-Francisco/Departure-Private-Transfer-San-Francisco-to-Airport-SFO-in-Luxury-Car/d651-85439P822?pid=P00295226&mcid=42383&medium=link">Departure Private Transfer: San Francisco to Airport SFO in Luxury Car</a>** <span class="badge">-5%</span>
 
 _Airport & Hotel Transfers_
 
@@ -155,7 +155,7 @@ From **$173**
 
 [![Monterey, Pebble Beach and Carmel Tour With Optional Aquarium](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/15/3c/2c.jpg)](https://www.viator.com/tours/San-Francisco/Monterey-Pebble-Beach-and-Carmel-Tour-With-Optional-Aquarium/d651-36001P15?pid=P00295226&mcid=42383&medium=link)
 
-**[Monterey, Pebble Beach and Carmel Tour With Optional Aquarium](https://www.viator.com/tours/San-Francisco/Monterey-Pebble-Beach-and-Carmel-Tour-With-Optional-Aquarium/d651-36001P15?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/San-Francisco/Monterey-Pebble-Beach-and-Carmel-Tour-With-Optional-Aquarium/d651-36001P15?pid=P00295226&mcid=42383&medium=link">Monterey, Pebble Beach and Carmel Tour With Optional Aquarium</a>** <span class="badge">-5%</span>
 
 _Day Trips_
 
@@ -167,7 +167,7 @@ From **$175**
 
 [![Big Sur Monterey and Carmel Tour From San Francisco](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/15/37/f4.jpg)](https://www.viator.com/tours/San-Francisco/Big-Sur-Monterey-and-Carmel-Tour-From-San-Francisco/d651-36001P14?pid=P00295226&mcid=42383&medium=link)
 
-**[Big Sur Monterey and Carmel Tour From San Francisco](https://www.viator.com/tours/San-Francisco/Big-Sur-Monterey-and-Carmel-Tour-From-San-Francisco/d651-36001P14?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/San-Francisco/Big-Sur-Monterey-and-Carmel-Tour-From-San-Francisco/d651-36001P14?pid=P00295226&mcid=42383&medium=link">Big Sur Monterey and Carmel Tour From San Francisco</a>** <span class="badge">-5%</span>
 
 _Day Trips_
 

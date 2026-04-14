@@ -23,8 +23,8 @@ showTableOfContents: true
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">📌 More about Nara</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://dining.techpawz.com/posts/michelin-kyoto-japan/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍷 restaurants in [Japan](https://foodtour.techpawz.com/posts/tokyo-food-tours/)</a>
-<a href="https://dining.techpawz.com/posts/michelin-osaka-japan/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍷 restaurants in [Japan](https://foodtour.techpawz.com/posts/tokyo-food-tours/)</a>
+<a href="https://dining.techpawz.com/posts/michelin-kyoto-japan/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍷 restaurants in <a href="https://foodtour.techpawz.com/posts/tokyo-food-tours/">Japan</a></a>
+<a href="https://dining.techpawz.com/posts/michelin-osaka-japan/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍷 restaurants in <a href="https://foodtour.techpawz.com/posts/tokyo-food-tours/">Japan</a></a>
 <a href="https://dining.techpawz.com/posts/michelin-tokyo-japan/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍷 restaurants in Japan</a>
 </div>
 </div>

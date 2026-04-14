@@ -23,8 +23,8 @@ showTableOfContents: true
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">📌 More about Lyon</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://visafree.techpawz.com/posts/france-visa-free/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛂 [France](https://visafree.techpawz.com/posts/france-visa-free/) visa requirements</a>
-<a href="https://culture.techpawz.com/posts/paris-culture-tours/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🏛️ art tours in [France](https://visafree.techpawz.com/posts/france-visa-free/)</a>
+<a href="https://visafree.techpawz.com/posts/france-visa-free/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛂 <a href="https://visafree.techpawz.com/posts/france-visa-free/">France</a> visa requirements</a>
+<a href="https://culture.techpawz.com/posts/paris-culture-tours/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🏛️ art tours in <a href="https://visafree.techpawz.com/posts/france-visa-free/">France</a></a>
 <a href="https://daytrips.techpawz.com/posts/paris-day-trips/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🚌 daytrips in France</a>
 </div>
 </div>

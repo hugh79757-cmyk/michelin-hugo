@@ -2,7 +2,6 @@
 title: "Hanoi Michelin Restaurant Guide"
 date: 2026-04-10T18:51:15+09:00
 description: "Complete guide to Michelin-starred restaurants in Hanoi: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-hanoi/cover.jpg"
 featureimagecredit: "Photo by [Toàn Văn](https://www.pexels.com/@vtnt2) on [Pexels](https://www.pexels.com)"
 tags:
   - "Hanoi"

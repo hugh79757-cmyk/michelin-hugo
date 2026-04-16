@@ -2,7 +2,6 @@
 title: "Taipei Michelin Guide: A Culinary Exploration"
 date: 2026-04-06T09:59:33+09:00
 description: "Complete guide to Michelin-starred restaurants in Taipei: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-taipei/cover.jpg"
 featureimagecaption: "Photo by [Jimmy Liao](https://www.pexels.com/@jimmy-liao-3615017) on [Pexels](https://www.pexels.com)"
 tags:
   - "Taipei"

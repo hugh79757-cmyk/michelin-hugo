@@ -2,7 +2,6 @@
 title: "Busan Michelin Guide"
 date: 2026-04-11T12:50:44+09:00
 description: "Complete guide to Michelin-starred restaurants in Busan: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-busan/cover.jpg"
 featureimagecredit: "Photo by [Jhany Blue](https://www.pexels.com/@jhany-blue-436502581) on [Pexels](https://www.pexels.com)"
 tags:
   - "Busan"

@@ -2,7 +2,6 @@
 title: "Hangzhou Michelin Guide: A Culinary Journey"
 date: 2026-04-05T22:50:50+09:00
 description: "Complete guide to Michelin-starred restaurants in Hangzhou: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-hangzhou/cover.jpg"
 featureimagecaption: "Photo by [Acres of Film](https://www.pexels.com/@acres-of-film-698445032) on [Pexels](https://www.pexels.com)"
 tags:
   - "Hangzhou"

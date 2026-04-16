@@ -2,7 +2,6 @@
 title: "Kuala Lumpur Michelin Dining Guide"
 date: 2026-04-08T12:50:43+09:00
 description: "Complete guide to Michelin-starred restaurants in Kuala Lumpur: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-kuala-lumpur/cover.jpg"
 featureimagecredit: "Photo by [Pok Rie](https://www.pexels.com/@pok-rie-33563) on [Pexels](https://www.pexels.com)"
 tags:
   - "Kuala Lumpur"

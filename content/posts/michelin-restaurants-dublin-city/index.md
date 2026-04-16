@@ -2,7 +2,6 @@
 title: "Dublin City Michelin Restaurant Guide"
 date: 2026-04-14T10:58:37+09:00
 description: "Complete guide to Michelin-starred restaurants in Dublin City: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-dublin-city/cover.jpg"
 featureimagecredit: "Photo by [Michael Arlotto](https://www.pexels.com/@michaelarlotto) on [Pexels](https://www.pexels.com)"
 tags:
   - "Dublin City"

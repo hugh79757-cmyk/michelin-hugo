@@ -2,7 +2,6 @@
 title: "Buenos Aires Michelin Dining Guide"
 date: 2026-04-12T15:50:39+09:00
 description: "Complete guide to Michelin-starred restaurants in Buenos Aires: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-buenos-aires/cover.jpg"
 featureimagecredit: "Photo by [Lilian Sandoval](https://www.pexels.com/@lilian-sandoval-310270209) on [Pexels](https://www.pexels.com)"
 tags:
   - "Buenos Aires"

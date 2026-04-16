@@ -2,7 +2,6 @@
 title: "Atlanta Michelin Dining Guide"
 date: 2026-04-13T16:51:00+09:00
 description: "Complete guide to Michelin-starred restaurants in Atlanta: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-atlanta/cover.jpg"
 featureimagecredit: "Photo by [Dimitry Mak](https://www.pexels.com/@dimitry-mak-1310041547) on [Pexels](https://www.pexels.com)"
 tags:
   - "Atlanta"

@@ -2,7 +2,6 @@
 title: "Singapore Michelin Restaurant Guide"
 date: 2026-04-04T12:50:45+09:00
 description: "Complete guide to Michelin-starred restaurants in Singapore: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-singapore/cover.jpg"
 featureimagecaption: "Photo by [Gatsby Yang](https://www.pexels.com/@gatsby-yang-857486579) on [Pexels](https://www.pexels.com)"
 tags:
   - "Singapore"

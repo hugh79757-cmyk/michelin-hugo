@@ -2,7 +2,6 @@
 title: "Rome Michelin Restaurant Guide"
 date: 2026-04-09T15:50:45+09:00
 description: "Complete guide to Michelin-starred restaurants in Rome: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-rome/cover.jpg"
 featureimagecredit: "Photo by [Anastasiya Badun](https://www.pexels.com/@badun) on [Pexels](https://www.pexels.com)"
 tags:
   - "Rome"

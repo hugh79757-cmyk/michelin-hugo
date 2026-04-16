@@ -2,7 +2,6 @@
 title: "Chicago Michelin Restaurant Guide"
 date: 2026-04-07T15:51:04+09:00
 description: "Complete guide to Michelin-starred restaurants in Chicago: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-chicago/cover.jpg"
 featureimagecredit: "Photo by [Willian Justen de Vasconcellos](https://www.pexels.com/@willianjusten) on [Pexels](https://www.pexels.com)"
 tags:
   - "Chicago"

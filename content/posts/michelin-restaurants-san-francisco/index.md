@@ -2,7 +2,6 @@
 title: "San Francisco Michelin Dining Guide"
 date: 2026-04-07T15:59:10+09:00
 description: "Complete guide to Michelin-starred restaurants in San Francisco: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-san-francisco/cover.jpg"
 featureimagecredit: "Photo by [Elijah Cobb](https://www.pexels.com/@elijahjcobb) on [Pexels](https://www.pexels.com)"
 tags:
   - "San Francisco"

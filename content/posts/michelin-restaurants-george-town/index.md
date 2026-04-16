@@ -2,7 +2,6 @@
 title: "George Town Michelin Restaurant Guide"
 date: 2026-04-09T09:59:41+09:00
 description: "Complete guide to Michelin-starred restaurants in George Town: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-george-town/cover.jpg"
 featureimagecredit: "Photo by [Kenny Foo](https://www.pexels.com/@kenny-foo-211952810) on [Pexels](https://www.pexels.com)"
 tags:
   - "George Town"

@@ -2,7 +2,6 @@
 title: "Orlando Michelin Restaurant Guide"
 date: 2026-04-13T10:51:18+09:00
 description: "Complete guide to Michelin-starred restaurants in Orlando: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-orlando/cover.jpg"
 featureimagecredit: "Photo by [Dominik Gryzbon](https://www.pexels.com/@gryziu) on [Pexels](https://www.pexels.com)"
 tags:
   - "Orlando"

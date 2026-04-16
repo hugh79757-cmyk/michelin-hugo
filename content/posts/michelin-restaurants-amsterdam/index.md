@@ -2,7 +2,6 @@
 title: "Amsterdam Michelin Dining Guide"
 date: 2026-04-09T09:50:32+09:00
 description: "Complete guide to Michelin-starred restaurants in Amsterdam: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-amsterdam/cover.jpg"
 featureimagecredit: "Photo by [Haberdoedas Photography](https://www.pexels.com/@haberdoedas) on [Pexels](https://www.pexels.com)"
 tags:
   - "Amsterdam"

@@ -2,7 +2,6 @@
 title: "Vancouver Michelin Restaurant Guide"
 date: 2026-04-08T09:50:40+09:00
 description: "Complete guide to Michelin-starred restaurants in Vancouver: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-vancouver/cover.jpg"
 featureimagecredit: "Photo by [Brendan Chen](https://www.pexels.com/@brendan-chen-2155725274) on [Pexels](https://www.pexels.com)"
 tags:
   - "Vancouver"

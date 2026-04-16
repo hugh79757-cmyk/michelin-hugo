@@ -2,7 +2,6 @@
 title: "Kaohsiung Michelin Dining: A Comprehensive Guide"
 date: 2026-04-11T12:58:31+09:00
 description: "Complete guide to Michelin-starred restaurants in Kaohsiung: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-kaohsiung/cover.jpg"
 featureimagecredit: "Photo by [Sunny Li](https://www.pexels.com/@sunny-li-2152532581) on [Pexels](https://www.pexels.com)"
 tags:
   - "Kaohsiung"

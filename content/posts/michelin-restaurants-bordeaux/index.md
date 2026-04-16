@@ -2,7 +2,6 @@
 title: "Bordeaux Michelin Restaurant Guide"
 date: 2026-04-14T08:33:02+09:00
 description: "Complete guide to Michelin-starred restaurants in Bordeaux: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-bordeaux/cover.jpg"
 featureimagecredit: "Photo by [TBD Traveller](https://www.pexels.com/@tbd-traveller-2149583744) on [Pexels](https://www.pexels.com)"
 tags:
   - "Bordeaux"

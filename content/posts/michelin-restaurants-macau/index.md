@@ -2,7 +2,6 @@
 title: "Macau Michelin Dining Guide"
 date: 2026-04-11T15:50:50+09:00
 description: "Complete guide to Michelin-starred restaurants in Macau: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-macau/cover.jpg"
 featureimagecredit: "Photo by [Jeffrey Lau](https://www.pexels.com/@jeffrey-lau-770172754) on [Pexels](https://www.pexels.com)"
 tags:
   - "Macau"

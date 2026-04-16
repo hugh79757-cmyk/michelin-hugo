@@ -2,7 +2,6 @@
 title: "The Definitive Bolzano Fine Dining Guide: Michelin Picks for Every Budget"
 date: 2026-04-01T23:06:56+09:00
 description: "Complete guide to Michelin-starred restaurants in Bolzano, Italy. 7 restaurants reviewed with awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-bolzano/cover.jpg"
 tags:
   - "Bolzano"
   - "Italy"

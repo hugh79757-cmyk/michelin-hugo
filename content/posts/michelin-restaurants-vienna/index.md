@@ -2,7 +2,6 @@
 title: "Vienna Michelin Restaurant Guide"
 date: 2026-04-09T12:59:09+09:00
 description: "Complete guide to Michelin-starred restaurants in Vienna: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-vienna/cover.jpg"
 featureimagecredit: "Photo by [Elijah Cobb](https://www.pexels.com/@elijahjcobb) on [Pexels](https://www.pexels.com)"
 tags:
   - "Vienna"

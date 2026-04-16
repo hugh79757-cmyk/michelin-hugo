@@ -2,7 +2,6 @@
 title: "Berlin Michelin Restaurant Guide"
 date: 2026-04-08T15:50:50+09:00
 description: "Complete guide to Michelin-starred restaurants in Berlin: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-berlin/cover.jpg"
 featureimagecredit: "Photo by [Max Kladitin](https://www.pexels.com/@max-kladitin-456997122) on [Pexels](https://www.pexels.com)"
 tags:
   - "Berlin"

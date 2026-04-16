@@ -2,7 +2,6 @@
 title: "Montréal Michelin Restaurant Guide"
 date: 2026-04-12T12:50:54+09:00
 description: "Complete guide to Michelin-starred restaurants in Montréal: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-montréal/cover.jpg"
 featureimagecredit: "Photo by [Mathias Reding](https://www.pexels.com/@matreding) on [Pexels](https://www.pexels.com)"
 tags:
   - "Montréal"

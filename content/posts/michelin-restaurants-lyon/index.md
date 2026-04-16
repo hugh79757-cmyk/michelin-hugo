@@ -2,7 +2,6 @@
 title: "Lyon Michelin Restaurant Guide"
 date: 2026-04-05T15:50:59+09:00
 description: "Complete guide to Michelin-starred restaurants in Lyon: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-lyon/cover.jpg"
 featureimagecaption: "Photo by [Bingqian Li](https://www.pexels.com/@bingqian-li-230971044) on [Pexels](https://www.pexels.com)"
 tags:
   - "Lyon"

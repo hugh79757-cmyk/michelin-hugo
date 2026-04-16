@@ -2,7 +2,6 @@
 title: "Taichung Michelin Dining Guide"
 date: 2026-04-11T10:04:38+09:00
 description: "Complete guide to Michelin-starred restaurants in Taichung: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-taichung/cover.jpg"
 featureimagecredit: "Photo by [Timo Volz](https://www.pexels.com/@timo-volz-837240) on [Pexels](https://www.pexels.com)"
 tags:
   - "Taichung"

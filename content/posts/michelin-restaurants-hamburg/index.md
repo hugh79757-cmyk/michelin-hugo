@@ -2,7 +2,6 @@
 title: "Hamburg Michelin Restaurant Guide"
 date: 2026-04-12T10:58:49+09:00
 description: "Complete guide to Michelin-starred restaurants in Hamburg: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-hamburg/cover.jpg"
 featureimagecredit: "Photo by [Muhammed Hanefi](https://www.pexels.com/@muhammed-hanefi-778129632) on [Pexels](https://www.pexels.com)"
 tags:
   - "Hamburg"

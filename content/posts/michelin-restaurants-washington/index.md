@@ -2,7 +2,6 @@
 title: "Washington Michelin Restaurant Guide"
 date: 2026-04-07T12:50:58+09:00
 description: "Complete guide to Michelin-starred restaurants in Washington: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-washington/cover.jpg"
 featureimagecredit: "Photo by [Harrison Mitchell](https://unsplash.com/@harrisonmitchell) on [Unsplash](https://unsplash.com)"
 tags:
   - "Washington"

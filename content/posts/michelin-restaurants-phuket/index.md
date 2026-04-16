@@ -2,7 +2,6 @@
 title: "Phuket Michelin Dining Guide"
 date: 2026-04-11T09:50:43+09:00
 description: "Complete guide to Michelin-starred restaurants in Phuket: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-phuket/cover.jpg"
 featureimagecredit: "Photo by [Siarhei Nester](https://www.pexels.com/@siarhei-nester-318033361) on [Pexels](https://www.pexels.com)"
 tags:
   - "Phuket"

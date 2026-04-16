@@ -2,7 +2,6 @@
 title: "Munich Michelin Restaurant Guide"
 date: 2026-04-09T12:50:42+09:00
 description: "Complete guide to Michelin-starred restaurants in Munich: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-munich/cover.jpg"
 featureimagecredit: "Photo by [Alina Chernii](https://www.pexels.com/@alina-chernii-682289345) on [Pexels](https://www.pexels.com)"
 tags:
   - "Munich"

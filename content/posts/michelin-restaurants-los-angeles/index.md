@@ -2,7 +2,6 @@
 title: "Los Angeles Michelin Restaurant Guide"
 date: 2026-04-05T09:50:36+09:00
 description: "Complete guide to Michelin-starred restaurants in Los Angeles: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-los-angeles/cover.jpg"
 featureimagecaption: "Photo by [Daryan Shamkhali](https://unsplash.com/@daryan) on [Unsplash](https://unsplash.com)"
 tags:
   - "Los Angeles"

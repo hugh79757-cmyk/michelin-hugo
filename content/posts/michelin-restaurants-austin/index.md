@@ -2,7 +2,6 @@
 title: "Austin Michelin Restaurant Guide"
 date: 2026-04-13T13:50:35+09:00
 description: "Complete guide to Michelin-starred restaurants in Austin: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-austin/cover.jpg"
 featureimagecredit: "Photo by [Elsie Soto](https://www.pexels.com/@elsiebsoto) on [Pexels](https://www.pexels.com)"
 tags:
   - "Austin"

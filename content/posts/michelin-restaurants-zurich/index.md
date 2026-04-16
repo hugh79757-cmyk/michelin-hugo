@@ -2,7 +2,6 @@
 title: "Zurich Michelin: A Guide to Exceptional Dining"
 date: 2026-04-10T19:00:27+09:00
 description: "Complete guide to Michelin-starred restaurants in Zurich: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-zurich/cover.jpg"
 featureimagecredit: "Photo by [Elijah Cobb](https://www.pexels.com/@elijahjcobb) on [Pexels](https://www.pexels.com)"
 tags:
   - "Zurich"

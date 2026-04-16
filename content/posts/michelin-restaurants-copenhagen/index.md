@@ -2,7 +2,6 @@
 title: "Copenhagen Michelin Restaurant Guide"
 date: 2026-04-10T22:51:02+09:00
 description: "Complete guide to Michelin-starred restaurants in Copenhagen: awards, cuisines, prices, and booking tips."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-copenhagen/cover.jpg"
 featureimagecredit: "Photo by [Efrem  Efre](https://www.pexels.com/@efrem-efre-2786187) on [Pexels](https://www.pexels.com)"
 tags:
   - "Copenhagen"

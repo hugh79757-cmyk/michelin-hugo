@@ -2,6 +2,7 @@
 title: "Paris Michelin Restaurant Guide"
 date: 2026-04-02T22:51:04+09:00
 description: "Complete guide to Michelin-starred restaurants in Paris: awards, cuisines, prices, and booking tips."
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-paris/cover.jpg"
 featureimagecaption: "Photo by [Liisbet Luup](https://www.pexels.com/@liisbet-luup-121486327) on [Pexels](https://www.pexels.com)"
 tags:
   - "Paris"

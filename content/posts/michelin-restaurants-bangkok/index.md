@@ -2,6 +2,7 @@
 title: "Bangkok Michelin Restaurant Guide"
 date: 2026-04-06T09:50:32+09:00
 description: "Complete guide to Michelin-starred restaurants in Bangkok: awards, cuisines, prices, and booking tips."
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-bangkok/cover.jpg"
 featureimagecaption: "Photo by [Tom Lorber](https://www.pexels.com/@tmlrbr) on [Pexels](https://www.pexels.com)"
 tags:
   - "Bangkok"

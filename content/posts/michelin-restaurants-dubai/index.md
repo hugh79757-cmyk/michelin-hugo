@@ -2,6 +2,7 @@
 title: "Dubai Michelin Restaurant Guide"
 date: 2026-04-06T18:50:48+09:00
 description: "Complete guide to Michelin-starred restaurants in Dubai: awards, cuisines, prices, and booking tips."
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-dubai/cover.jpg"
 featureimagecaption: "Photo by [Subbu Rayan](https://www.pexels.com/@subbu-rayan-1007049269) on [Pexels](https://www.pexels.com)"
 tags:
   - "Dubai"

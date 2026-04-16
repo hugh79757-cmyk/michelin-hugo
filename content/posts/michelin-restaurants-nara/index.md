@@ -2,6 +2,7 @@
 title: "Nara Michelin Guide: A Journey Through Culinary Excellence"
 date: 2026-04-05T16:00:52+09:00
 description: "Complete guide to Michelin-starred restaurants in Nara: awards, cuisines, prices, and booking tips."
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-nara/cover.jpg"
 featureimagecaption: "Photo by [Anele Ludaviciute](https://www.pexels.com/@anele-ludaviciute-2150586308) on [Pexels](https://www.pexels.com)"
 tags:
   - "Nara"

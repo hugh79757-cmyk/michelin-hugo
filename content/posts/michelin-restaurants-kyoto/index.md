@@ -2,6 +2,7 @@
 title: "Kyoto Michelin Restaurant Guide"
 date: 2026-04-04T18:50:36+09:00
 description: "Complete guide to Michelin-starred restaurants in Kyoto: awards, cuisines, prices, and booking tips."
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/michelin-restaurants-kyoto/cover.jpg"
 featureimagecaption: "Photo by [Emiliano Lara](https://www.pexels.com/@emiliano-lara-2150347322) on [Pexels](https://www.pexels.com)"
 tags:
   - "Kyoto"
